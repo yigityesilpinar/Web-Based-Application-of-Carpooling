@@ -1,0 +1,167 @@
+Key,Value
+Block_AlreadyBlocked,คนนี้เคยถูกล็อค
+Block_Self,คุณไม่สามารถล็อคตัวเอง
+Buy,ซื้อ
+ChangePassword_CurrentPassword,รหัสผ่าน
+ChangePassword_Failed,รหัสผ่านไม่สามารถเปลี่ยนแปลงได้
+ChangePassword_NewPassword,รหัสผ่านใหม่
+ChangePassword_NewPasswordConfirm,ป้อนรหัสผ่านใหม่อีกครั้ง
+ChangePassword_Submit,เปลี่ยนแปลง
+ChangePassword_Succeeded,รหัสผ่านที่มีการเปลี่ยนแปลง
+Comment,ส่ง
+CommentModel_Long,ตัวอักษรความคิดเห็นมีความยาวต้องไม่เกิน ...
+CommentModel_Required,แถบความเห็นจะต้องกรอก
+Comments_NoPermission,คุณไม่สามารถลบความคิดเห็นข้อนี้
+Comments_NotExists,ความคิดเห็นดังกล่าวไม่มีอยู่
+Common_AlreadyBanned,บัญชี่นี้ถูกหยุดใช้
+Common_AndOther, และอื่น ๆ  
+Common_Back,กลับ
+Common_HasBeenBlocked,คุณถูกทัดทานจากคนนี้
+Common_HasBlocked,คุณทัดทานต่อคนนี้
+Common_InvalidEmailAddress,อีเมลนี้ไม่ถูกต้อง
+Common_NoConnection,โปรดตรวจสอบการเชื่อมต่อเครือข่ายของคุณ
+Common_NoPermission,คุณไม่สามารถเข้าถึงได้
+Common_NoRecord,ไม่มีการลงทะเบียน 
+Common_SendCredit,ส่ง
+Common_UnknownError,มีความผิดพลาด
+Common_Unsuccessful,การทำงานล้มเหลว
+Common_World,โลก
+Common_SendButton,ส่ง
+Credit_Confirm,คุณตกลงหรือไม่
+Credit_NotEnough,ซื้อโลก
+Credit_Self,คุณไม่สามารถส่งโลกให้กับตัวเอง
+Description_Mentions_Commented_Image,ผู้ใช้คนหนึ่งแสดงความคิดเห็นสำหรับภาพถ่ายของคุณ
+Description_Mentions_Commented_Text,ผู้ใช้คนหนึ่งแสดงความคิดเห็นสำหรับบทความของคุณ
+Description_Mentions_Favourited_Image,ผู้ใช้คนหนึ่งเพิ่มภาพถ่ายของคุณไปยังรายการโปรด
+Description_Mentions_Favourited_Text,ผู้ใช้คนหนึ่งเพิ่มบทความไปยังรายการโปรดของคุณ
+Description_Mentions_Liked_Image,ผู้ใช้คนหนึ่งชอบภาพถ่ายของคุณ
+Description_Mentions_Liked_Text,ผู้ใช้คนหนึ่งชอบบทความของคุณ
+Description_Mentions_Mentioned,ผู้ใช้คนหนึ่งกล่าวถึงคุณ
+Description_Mentions_Shared_Image,ภาพของคุณได้รับการใช้ร่วมกันโดยผ่านโลก
+Description_Mentions_Shared_Text,บทความของคุณได้รับการใช้ร่วมกันโดยผ่านโลก
+Description_Mentions_Video_Image,เพิ่มวิดีโอไปยังภาพถ่ายของคุณ 
+Description_Mentions_Video_Text,เพิ่มวิดีโอไปยังบทความของคุณ
+Description_Telescope_Favourited,เพิ่มในรายการโปรด
+Description_Telescope_Followed,ความสนใจ
+Description_Telescope_Liked,ชอบ
+Description_Telescope_Shared,จะใช้ร่วมกันโด่ยผ่านโลก
+Email_Mentioned,%username%กล่าวถึงคุณ
+Email_Comment_Image,%username%แสดงความคิดเห็นสำหรับภาพถ่ายของคุณ
+Email_Comment_Text,%username%แสดงความคิดเห็นสำหรับบทความของคุณ 
+Email_Favorited_Text,%username%เพิ่มบทความของคุณไปยังรายการโปรด
+Email_Favorited_Image,%username%เพิ่มภาพถ่ายของคุณไปยังนรายการโปรด
+Email_Follow,%username%บันทึกคุณอยู่ในรายการความสนใจ 
+Email_Like_Image,%username%ชอบภาพถ่ายของคุณ
+Email_Like_Text,%username%ชอบบทความของคุณ
+Email_PasswordReset,รหัสผ่านworldself ของคุณได้รับการปรับปรุง 
+Email_ResetPasswordConfirmation,หากคุณต้องการที่จะปรับปรุงรหัสผ่านworldself ของคุณ  โปรดคลิกที่ลิงค์ต่อไปนี้
+Email_VerifiedAccountApplicationApproved, บัญชีWorldselfของคุณได้รับการยืนยัน
+Email_VerifiedAccountApplicationReceived,เราได้รับคำขอบัญชีWorldselfที่ได้รับตรวจสอบ เพื่อให้คำขอคุณได้รับการยันยัน โปรดส่งจากบัญชีทวิตเตอร์ของคุณโดย  ผ่านบัญชี%username%
+Email_Video_Text, %username%ได้เพิ่มวิดีโอสำหรับบทความ
+Email_Video_Image,%username%ได้เพิ่มวิดีโอสำหรับภาพถ่าย 
+Email_Welcome,"""ยินดีต้อนรับที่จะใช้worldself! ถ้าดำเนินการลงทะเบียนล้มเหลว โปรดเขียนอีเมลไปยัง support@worldself.com "
+Favourites_AlreadyAdded,การส่งบทความนี้ ได้เพิ่มไปยังรายการโปรดของคุณ
+Favourites_NotAdded,การส่งบทความนั้ ยังไม่ได้เพิ่มไปยับงรายการโปรด
+Feeders_Send,ส่ง
+Follow_AlreadyFollowed,ผู้ใช้นี้ได้รับความสนใจจากคุณ
+Follow_NotFollowed,ผู้ใช้นี้ไม่สามารถให้ความสนใจ  
+Follow_SelfFollowWarning,คุณไม่สามารถสนใจกับตัวเอง
+Likes_AlreadyLiked, การส่งข้อความนี้เคยถูกชอล
+Likes_NotLiked,การส่งบทความนี้เคยถูกปฏิเสธ
+Logoff_Failed,การทำงานล้มเหลว
+Logon_Failed,การทำงานล้มเหลว
+Logon_ForgetPassword,รหัสผ่านลืมไป
+Logon_Password,รหัสผ่าน
+Logon_Register,กลายเป็นสมาชิก
+Logon_Remember,เข้าสู่ระบบอัตโนมัติ
+Logon_SignIn,เข้าสู่ระบบ
+Logon_SignUp,การลงทะเบียน
+Logon_VerifiedAccount,บัญชี
+Logon_UsernameOrEmail,ชื่อผู้ใช้หรืออีเมล์
+LogonFailed,ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง
+LogonModel_PasswordRequired,รหัสผ่านไม่สามารถมีช่องว่าง
+LogonModel_UsernameRequired,ชื่อผู้ใช้ไม่สามารถมีช่องว่าง
+Membership_Banned,บัญชีถูกปิด
+Message,ส่ง
+Message_NotDelivered,ส่งข้อความล้มเหลว
+Password_CharacterLong,ตัวอักษรรหัสผ่านอย่างน้อย 4 ตัวอักษร
+Password_Match,รหัสผ่านและการยืนยันรหัสผ่านจะเหมือนกันไม่ได้
+Post,ส่ง
+Register_EMail,อีเมล
+Register_FullName,ชื่อเต็ม
+Register_Password,รหัสผ่าน
+Register_PasswordConfirm,การยืนยันรหัสผ่าน
+Register_Submit,การลงทะเบียน
+Register_Title,การลงทะเบียน
+Register_Username,ชื่อผู้ใช้
+RegisterModel_EmailRequired,จะต้องกรอกอีเมล
+RegisterModel_FullNameRequired,จะต้องกรอกชื่อ
+RegisterModel_PasswordConfirmRequired,จะต้องป้อนรหัสผ่านเพื่อยืนยัน
+RegisterModel_PasswordMismatch,รหัสผ่านและการยืนยันรหัสผ่านจะเหมือนกันไม่ได้
+RegisterModel_PasswordRequired,จะต้องป้อนรหัสผ่าน
+RegisterModel_PasswordStringLength,ตัวอักษรรหัสผ่านจะมีความยาวที่สุด สามารถมีตัวอักษร20ตัว 
+RegisterModel_UsernameInvalid,ชื่อผู้ใช้นี้ไม่ถูกต้อง
+RegisterModel_UsernameRequired,จะต้องกรอกชื่อผู้ใช้
+Reports_AlreadyReported,ข้อมูลนี้เคยถูกกล่าวหา 
+ResetPassword_Failed,อีเมลนี้ไม่มีอยู่
+ResetPassword_ForgetPassword,รหัสผ่านลืมไป
+ResetPassword_Send,ส่ง
+ResetPassword_Succeeded,ข้อมูลที่จำเป็นในการตั้งค่ารหัสผ่านใหม่ได้ถูกส่งไปยังอีเมลของคุณ
+ResetPassword_YourEmail,อีเมลของคุณ
+ResetPasswordModel_InvalidEmailAdress,อีเมลนี้ไม่ถูกต้อง
+Share,ส่วนแบ่ง
+Spam_AlreadySpammed,ผู้ใช้นี้เคยถูกตั้งค่าเป็นผู้ส่งอีเมลสแปม
+Spam_Self,คุณไม่สามารถตั้งค่าตัวเองเป็นผู้ส่งสแปม 
+Spam_Spam,สแปม
+TextPostModel_Long,ตัวอักษรข้อความที่ส่งไปจะมีความยาวต้องไม่เกิน ...
+TextPostModel_TextRequired,ไม่สามารถส่งข้อความที่ว่างเปล่า
+User_About,ที่เกี่ยวข้อง
+User_Followers,ให้ความสนใจกับคน
+User_Followings,ให้ความสนใจ
+User_WorldHistory,ประวัติศาสตร์ของโลก
+User_InviteFriends,เชิญเพื่อน
+User_NotExists,ผู้ใช้ไม่มีอยู่
+User_Photos,ภาพถ่าย
+User_SetProfile,แก้ไขข้อมูลส่วนตัว
+User_Settings,คั้งค่า
+User_ShowAll,แสดงทั้งหมด
+User_Favorites,รายการโปรด
+VerifiedAccount_ApplicationReceived,ไดรับใบสมัครของคุณ โปรดตรวจดูอีเมลของคุณ
+World_CannotBeShared,การส่งบทความนี้ไม่สามารถใช้ร่วมกัน
+Block_Block,ล็อค
+Block_Unblock,ถูกปลดล็อค
+Settings_Language,ภาษา
+Settings_Country,ประเทศ
+Settings_City,เมือง
+Gift_Received,ผู้ใช้ได้ส่งโลกแล้ว
+Credit_Sent,คุณส่งโลกแล้ว
+Credit_Spent,คุณใช้โลกแล้ว
+Camera_FromAlbum,เลือกจากอัลบั้ม
+Camera_TakePhoto,ถ่ายภาพ
+Common_Search,ค้นหา
+Common_Delete,ลบ
+User_SendMessage,ส่งข้อความ 
+Settings_BlockedList,รายชื่อถูกล็อค
+Common_Save,บันทึกไว้
+User_ProfilePhoto,รูปภาพโปรไฟล์ส่วนตัว
+User_HeaderPhoto,ภาพหัวข้อ
+User_FullName,ชื่อเต็ม
+User_FollowRequests,ผู้ให้ความสนใจมีความต้องการ  
+Register_AcceptTerms,ฉันยอมรับเงื่อนไขการให้บริการ
+Settings_ProfileOpen,เปิดเผย
+Settings_ProfilePrivate,ปิดบัง
+Settings_Profile,ข้อมูลส่วนตัว
+Common_Day,วัน
+Common_Hour,ชั่วโมง
+Common_Minutes,นาที
+Common_Seconds,วินาที
+Common_Show,แสดง
+Common_Logout,ออกจาก
+Description_Commented,แสดงความคิดเห็น
+Common_Month,เดือน
+Common_Day,วัน
+Common_Year,ปี
+Common_All,ทั้งหมด
+Common_Report,ร้องเรียน
+VerifiedAccountForm_Title,คำขอบัญชีได้รับการอนุมัติ
+Common_Help,ช่วย

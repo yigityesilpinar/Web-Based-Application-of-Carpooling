@@ -1,0 +1,167 @@
+Key,Value
+Block_AlreadyBlocked,Orang tersebut telah diblokir.
+Block_Self,Anda tidak bisa memblokir diri sendiri.
+Buy,Beli
+ChangePassword_CurrentPassword,Kata sandi
+ChangePassword_Failed,Gagal untuk mengubah kata sandi
+ChangePassword_NewPassword,Kata sandi baru
+ChangePassword_NewPasswordConfirm,Masukkan kata sandi baru lagi
+ChangePassword_Submit,Ubah
+ChangePassword_Succeeded,Kata sandi telah diubah
+Comment,Kirim
+CommentModel_Long,Panjang karakter komentar tidak boleh melebihi ...
+CommentModel_Required,Kolom pendapat harus diisi
+Comments_NoPermission,Anda tidak dapat menghapus komentar tersebut
+Comments_NotExists,Komentar tersebut tidak ada
+Common_AlreadyBanned,Akun tersebut telah ditutup
+Common_AndOther,dan lainnya
+Common_Back,Kembali
+Common_HasBeenBlocked,Anda diblokir oleh orang tersebut.
+Common_HasBlocked,Anda telah memblokir orang tersebut.
+Common_InvalidEmailAddress,E-mail tersebut tidak valid
+Common_NoConnection,Silakan periksa koneksi jaringan Anda
+Common_NoPermission,Anda tidak memiliki akses
+Common_NoRecord,Tidak ada catatan
+Common_SendCredit,Kirim
+Common_UnknownError,Terjadi kesalahan
+Common_Unsuccessful,Operasi gagal
+Common_World,Dunia
+Common_SendButton,Kirim
+Credit_Confirm,Apakah Anda yakin?
+Credit_NotEnough,Beli dunia
+Credit_Self,Anda tidak dapat mengirim dunia ke diri sendiri
+Description_Mentions_Commented_Image,Seorang telah membuat komentar tentang foto Anda
+Description_Mentions_Commented_Text,Seorang telah membuat komentar tentang artikel Anda
+Description_Mentions_Favourited_Image,Seorang telah menambahkan foto Anda ke favorit
+Description_Mentions_Favourited_Text,Seorang telah menambahkan artikel Anda ke favorit
+Description_Mentions_Liked_Image,Seorang menyukai foto Anda
+Description_Mentions_Liked_Text,Seorang menyukai artikel Anda
+Description_Mentions_Mentioned,"Seorang berbicara tentang Anda"
+Description_Mentions_Shared_Image,Foto Anda telah dibagi melalui dunia
+Description_Mentions_Shared_Text,Artikel Anda telah dibagi melalui dunia
+Description_Mentions_Video_Image,Video ditambahkan ke foto Anda
+Description_Mentions_Video_Text,Video ditambahkan ke artikel Anda
+Description_Telescope_Favourited,Tambahkan ke favorit
+Description_Telescope_Followed,Ikuti
+Description_Telescope_Liked,Suka
+Description_Telescope_Shared,Berbagi melalui dunia
+Email_Mentioned,%username% sedang berbicara tentang Anda
+Email_Comment_Image,%username% membuat komentar tentang foto Anda
+Email_Comment_Text,%username% membuat komentar tentang artikel Anda
+Email_Favorited_Text,%username% menambahkan artikel Anda ke favorit
+Email_Favorited_Image,%username% menambahkan foto Anda ke favorit
+Email_Follow,%username% mengikuti Anda
+Email_Like_Image,%username% menyukai foto Anda
+Email_Like_Text,%username% menyukai artikel Anda
+Email_PasswordReset,Kata sandi worldself Anda diperbarui
+Email_ResetPasswordConfirmation,"Jika Anda ingin memperbarui kata sandi worldself Anda, silakan klik link di bawah ini."
+Email_VerifiedAccountApplicationApproved,Akun worldself Anda dikonfirmasi.
+Email_VerifiedAccountApplicationReceived,"Kami telah menerima aplikasi akun worldself Anda yang disetujui. Untuk mengkonfirmasi aplikasi Anda, silakan kirim pesan %verifiedaccountcode% pada akun Twitter melalui akun %username%."
+Email_Video_Text,%username% telah menambahkan video ke artikel
+Email_Video_Image,%username% telah menambahkan video ke foto
+Email_Welcome,"Selamat Datang di worldself! Jika pendaftaran gagal, silahkan menulis email ke support@worldself.com."
+Favourites_AlreadyAdded,Kiriman tersebut telah ditambahkan ke favorit
+Favourites_NotAdded,Kiriman tersebut belum ditambahkan ke favorit
+Feeders_Send,Kirim
+Follow_AlreadyFollowed,Pengguna tersebut telah diikuti oleh Anda
+Follow_NotFollowed,Pengguna tersebut tidak dapat diikuti
+Follow_SelfFollowWarning,Anda tidak dapat mengikuti diri sendiri
+Likes_AlreadyLiked,Kiriman telah disukai
+Likes_NotLiked,Kiriman telah ditolak
+Logoff_Failed,Operasi gagal
+Logon_Failed,Operasi gagal
+Logon_ForgetPassword,Lupa kata sandi
+Logon_Password,Kata sandi
+Logon_Register,Menjadi anggota
+Logon_Remember,Login otomatis
+Logon_SignIn,Login
+Logon_SignUp,Daftar
+Logon_VerifiedAccount,Akun
+Logon_UsernameOrEmail,Nama pengguna atau E-mail
+LogonFailed,Nama pengguna atau kata sandi salah
+LogonModel_PasswordRequired,Kata sandi tidak boleh kosong
+LogonModel_UsernameRequired,Nama pengguna tidak boleh kosong
+Membership_Banned,Akun tersebut ditutup
+Message,Kirim
+Message_NotDelivered,Gagal untuk mengirim pesan
+Password_CharacterLong,Kata sandi minimal 4 karakter
+Password_Match,Kata sandi dan konfirmasi kata sandi tidak boleh sama
+Post,Kirim
+Register_EMail,E-mail
+Register_FullName,Nama
+Register_Password,Kata sandi
+Register_PasswordConfirm,Konfirmasi kata sandi
+Register_Submit,Daftar
+Register_Title,Daftar
+Register_Username,Nama pengguna
+RegisterModel_EmailRequired,E-mail diperlukan
+RegisterModel_FullNameRequired,Nama diperlukan
+RegisterModel_PasswordConfirmRequired,Konfirmasi kata sandi diperlukan
+RegisterModel_PasswordMismatch,Kata sandi dan konfirmasi kata sandi tidak boleh sama
+RegisterModel_PasswordRequired,Kata sandi diperlukan
+RegisterModel_PasswordStringLength,Panjang karakter kata sandi bisa sampai 20 karakter
+RegisterModel_UsernameInvalid,Nama pengguna tidak valid
+RegisterModel_UsernameRequired,Nama pengguna diperlukan
+Reports_AlreadyReported,Informasi ini telah dituduh
+ResetPassword_Failed,E-mail ini tidak terdaftar
+ResetPassword_ForgetPassword,Lupa kata sandi
+ResetPassword_Send,Kirim
+ResetPassword_Succeeded,Informasi yang diperlukan untuk mereset kata sandi telah dikirim ke E-mail Anda
+ResetPassword_YourEmail,E-mail Anda
+ResetPasswordModel_InvalidEmailAdress,E-mail tidak valid
+Share,Berbagi
+Spam_AlreadySpammed,Pengguna ini telah ditandai sebagai pengirim spam
+Spam_Self,Anda tidak dapat menandai diri sendiri sebagai pengirim spam
+Spam_Spam,Spam
+TextPostModel_Long,Panjang karakter pesan tidak boleh melebihi ...
+TextPostModel_TextRequired,Tidak dapat mengirim pesan kosong
+User_About,Terkait
+User_Followers,Pengikut
+User_Followings,Ikuti
+User_WorldHistory,Sejarah dunia
+User_InviteFriends,Undang teman
+User_NotExists,Pengguna tidak ada
+User_Photos,Foto
+User_SetProfile,Edit profil
+User_Settings,Atur
+User_ShowAll,Tampilkan semua
+User_Favorites,Favorit
+VerifiedAccount_ApplicationReceived,"Aplikasi Anda diterima, silakan cek e-mail Anda"
+World_CannotBeShared,Kiriman ini tidak dapat dibagi
+Block_Block,Blokir
+Block_Unblock,Blokir dibuka
+Settings_Language,Bahasa
+Settings_Country,Negara
+Settings_City,Kota
+Gift_Received,Seorang telah mengirim dunia
+Credit_Sent,Anda telah mengirim dunia
+Credit_Spent,Anda telah menggunakan Dunia
+Camera_FromAlbum,Pilih dari album
+Camera_TakePhoto,Ambil foto
+Common_Search,Cari
+Common_Delete,Hapus
+User_SendMessage,Kirim pesan
+Settings_BlockedList,Daftar diblokir
+Common_Save,Simpan
+User_ProfilePhoto,Foto profil
+User_HeaderPhoto,Foto topik
+User_FullName,Nama
+User_FollowRequests,Persyaratan pengikut
+Register_AcceptTerms,Saya menerima persyaratan layanan
+Settings_ProfileOpen,Terbuka
+Settings_ProfilePrivate,Tersembunyi
+Settings_Profile,Informasi pribadi
+Common_Day,Hari
+Common_Hour,Jam
+Common_Minutes,Menit
+Common_Seconds,Detik
+Common_Show,tampil
+Common_Logout,keluar
+Description_Commented,komentar
+Common_Month,bulan
+Common_Day,hari
+Common_Year,tahun
+Common_All,semua
+Common_Report,keluhan
+VerifiedAccountForm_Title,aplikasi akun disetujui
+Common_Help,bantuan

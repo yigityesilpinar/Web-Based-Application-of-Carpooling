@@ -1,0 +1,168 @@
+Key,Value
+Block_AlreadyBlocked,cette personne a déjà été bloquée
+Block_Self,vous ne pouvez pas vous bloquer vous-mêmes
+Buy,achète
+ChangePassword_CurrentPassword,votre mot de passe
+ChangePassword_Failed,le mot de passe n'a pas été changé
+ChangePassword_NewPassword,nouveau mot de passe
+ChangePassword_NewPasswordConfirm,confirmez le nouveau mot de passe 
+ChangePassword_Submit,change
+ChangePassword_Succeeded,le mot de passe a été changé
+Comment,envois
+CommentModel_Long,le commentaire doit avoir moins de….. caractères
+CommentModel_Required,le commentaire est nécessaire
+Comments_NoPermission,vous n'avez pas d'autorisation pour effacer ce commentaire
+Comments_NotExists,Ce commentaire n’existe pas
+Common_AlreadyBanned,ce compte a été fermé
+Common_AndOther,et les autres
+Common_Back,retour
+Common_HasBeenBlocked,vous avez été bloqué par cette personne
+Common_HasBlocked,vous avez bloqué cette personne
+Common_InvalidEmailAddress,adresse e-mail invalide
+Common_NoConnection,vérifiez votre connexion internet
+Common_NoPermission,vous n'avez pas d'autorisation 
+Common_NoRecord,n’existe pas
+Common_SendCredit,envois
+Common_UnknownError,Erreur
+Common_Unsuccessful,l'opération a échoué
+Common_World,monde
+Common_SendButton,envois
+Credit_Confirm,êtes-vous sur?
+Credit_NotEnough,achète le monde
+Credit_Self,vous ne pouvez pas envoyer le monde à vous-mêmes
+Description_Mentions_Commented_Image,a commenté te photo
+Description_Mentions_Commented_Text,a commenté tes écrits
+Description_Mentions_Favourited_Image,a ajouté ta photo à ses favoris
+Description_Mentions_Favourited_Text,a ajoute tes écrits à ses favoris
+Description_Mentions_Liked_Image,a aimé ta photo
+Description_Mentions_Liked_Text,a aimé tes écrits
+Description_Mentions_Mentioned,t’a mentionné
+Description_Mentions_Shared_Image,a partagé ta photo avec le monde
+Description_Mentions_Shared_Text,a partagé tes écrits avec le monde
+Description_Mentions_Video_Image,a ajouté une vidéo à ta photo
+Description_Mentions_Video_Text,a ajouté une vidéo à tes écrits 
+Description_Telescope_Favourited,a ajouté à ses favoris
+Description_Telescope_Followed,a suivi
+Description_Telescope_Liked,a aimé
+Description_Telescope_Shared,a partagé avec le monde
+Email_Mentioned,%username% t’a mentionné
+Email_Comment_Image,%username% a commenté ta photo
+Email_Comment_Text,%username% a commenté tes écrits
+Email_Favorited_Text,%username% a ajouté tes écrits à ses favoris
+Email_Favorited_Image,%username% a ajouté ta photo à ses favoris
+Email_Follow,%username% a commencé à te suivre
+Email_Like_Image,%username% a aimé ta photo
+Email_Like_Text,%username% a aimé tes écrits
+Email_PasswordReset,votre mot de passe worldself a été renouvellé
+Email_ResetPasswordConfirmation,si vous souhaitez renouveler votre mot de passe worldself cliquez sur le lien ci-dessous
+Email_VerifiedAccountApplicationApproved,votre compte worldself a été approuvé
+Email_VerifiedAccountApplicationReceived,"votre demande de compte worldself approuvé nous est parvenu.
+pour que votre demande soit approuvée envoyez un tweet %verifiedaccountcode% au compte twitter %username%"
+Email_Video_Text,%username% a ajouté une vidéo à tes écrits
+Email_Video_Image,%username% a ajouté une vidéo à ta photo
+Email_Welcome,"bienvenue à worldself. si vous n'avez pas pu vous enregistrer, faites le savoir à l'adresse support@worldself.com"
+Favourites_AlreadyAdded,cette publication a déjà été ajoutée à vos favoris
+Favourites_NotAdded,La publication ne se retrouve pas parmi vos favoris
+Feeders_Send,envois
+Follow_AlreadyFollowed,cette personne est déjà suivie
+Follow_NotFollowed,cette personne n'est pas suivie
+Follow_SelfFollowWarning,vous ne pouvez pas vous suivre vous-mêmes 
+Likes_AlreadyLiked,cette publication a déjà été aimée
+Likes_NotLiked,cette publication n'a pas encore été aimée
+Logoff_Failed,l'opération a échoué
+Logon_Failed,l'opération a échoué
+Logon_ForgetPassword,j'ai oublié mon mot de passe
+Logon_Password,mot de passe
+Logon_Register,deviens membre
+Logon_Remember,souviens-toi de moi
+Logon_SignIn,Connexion
+Logon_SignUp,Crée un compte
+Logon_VerifiedAccount,Compte
+Logon_UsernameOrEmail,nom d'utilisateur ou e-mail
+LogonFailed,nom d'utilisateur ou mot de passe incorrect
+LogonModel_PasswordRequired,le mot de passe ne peut pas rester vide
+LogonModel_UsernameRequired,le nom d'utilisateur ne peut pas rester vide
+Membership_Banned,le compte a été fermé
+Message,envois
+Message_NotDelivered,le message n'a pas été transmis
+Password_CharacterLong,le mot de passe doit avoir au moins 4 caractères
+Password_Match,le mot de passe et la confirmation du mot de passe sont différents
+Post,envois
+Register_EMail,adresse e-mail
+Register_FullName,nom Prénom
+Register_Password,mot de passe
+Register_PasswordConfirm,confirmation du mot de passe
+Register_Submit,crée un compte
+Register_Title,crée un compte
+Register_Username,nom d'utilisateur
+RegisterModel_EmailRequired,l'adresse e-mail est requise
+RegisterModel_FullNameRequired,le nom est requis
+RegisterModel_PasswordConfirmRequired,la confirmation du mot de passe est requise
+RegisterModel_PasswordMismatch,le mot de passe et la confirmation du mot de passe sont différents
+RegisterModel_PasswordRequired,le mot de passe est requis
+RegisterModel_PasswordStringLength,le mot de passe doit avoir au moins 20 caractères
+RegisterModel_UsernameInvalid,nom d'utilisateur invalide
+RegisterModel_UsernameRequired,le nom d'utilisateur est  requis
+Reports_AlreadyReported,cette publication a déjà été l'objet d'une plainte
+ResetPassword_Failed,cette adresse e-mail n'existe pas
+ResetPassword_ForgetPassword,j'ai oublié mon mot de passe
+ResetPassword_Send,envois
+ResetPassword_Succeeded,les informations nécessaires pour renouveler votre mot de passe ont été envoyées à votre adresse e-mail
+ResetPassword_YourEmail,votre adresse e-mail
+ResetPasswordModel_InvalidEmailAdress,adresse e-mail invalide
+Share,partage
+Spam_AlreadySpammed,cette personne a déjà été notifiée comme spam
+Spam_Self,vous ne pouvez pas vous identifier vous-mêmes en tant que spam
+Spam_Spam,spam
+TextPostModel_Long,la publication ne peut pas avoir plus de ..... caractères
+TextPostModel_TextRequired,Le texte de publication ne peut pas rester vide
+User_About,à propos
+User_Followers,abonné
+User_Followings,abonnement
+User_WorldHistory,le passé du monde
+User_InviteFriends,invite tes amis
+User_NotExists,l'utilisateur n'est pas défini
+User_Photos,photo
+User_SetProfile,modifie ton profil
+User_Settings,paramètres
+User_ShowAll,montre tout
+User_Favorites,favoris
+VerifiedAccount_ApplicationReceived,"votre demande a été reçue, veuillez vérifier votre boite e-mail"
+World_CannotBeShared,cette publication ne peut être partagée
+Block_Block,Bloque
+Block_Unblock,Enlève le blocage
+Settings_Language,langue
+Settings_Country,pays
+Settings_City,ville
+Gift_Received,il a envoyé un monde
+Credit_Sent,vous avez envoyé un monde
+Credit_Spent,vous avez utilisé un monde
+Camera_FromAlbum,choisis à partir de l'album
+Camera_TakePhoto,prends une photo
+Common_Search,cherche
+Common_Delete,efface
+User_SendMessage,envoie un message
+Settings_BlockedList,bloqués
+Common_Save,enregistre
+User_ProfilePhoto,photo de profil
+User_HeaderPhoto,Image d'en-tête
+User_FullName,nom prénom
+User_FollowRequests,les désirs de l'abonné
+Register_AcceptTerms,j'accepte les conditions d'utilisation
+Settings_ProfileOpen,ouvert
+Settings_ProfilePrivate,caché
+Settings_Profile,profil
+Common_Day,jour
+Common_Hour,heure
+Common_Minutes,minute
+Common_Seconds,seconde
+Common_Show,montre
+Common_Logout,sortie
+Description_Commented,a commenté
+Common_Month,mois
+Common_Day,jour
+Common_Year,année
+Common_All,tout
+Common_Report,plains-toi
+VerifiedAccountForm_Title,demande de compte acceptée
+Common_Help,aide

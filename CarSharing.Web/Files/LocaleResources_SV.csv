@@ -1,0 +1,167 @@
+Key,Value
+Block_AlreadyBlocked,denna person har blockerat tidigare
+Block_Self,ni kan inte blockera er själv
+Buy,köp
+ChangePassword_CurrentPassword,din kod
+ChangePassword_Failed,din kod kunde icke ändras
+ChangePassword_NewPassword,ny kod
+ChangePassword_NewPasswordConfirm,upprepa din nya kod
+ChangePassword_Submit,ändra
+ChangePassword_Succeeded,koden är ändrad
+Comment,sänd
+CommentModel_Long,kommentaren kan inte vara längre än karakteren
+CommentModel_Required,det behövs kommentar
+Comments_NoPermission,Ni har inte behörighet att sudda kommentaren
+Comments_NotExists,det finns ingen sådan kommentar
+Common_AlreadyBanned,detta 
+Common_AndOther,och dem andra
+Common_Back,back
+Common_HasBeenBlocked,ni har blockerats av denna person
+Common_HasBlocked,ni har blockerad denna person
+Common_InvalidEmailAddress,ogiltig mail adress
+Common_NoConnection,kontrollera er e post adress
+Common_NoPermission,ni har ingen behörighet
+Common_NoRecord,det finns ingen registrering
+Common_SendCredit,sänd
+Common_UnknownError,det har blivit ett fel
+Common_Unsuccessful,misslyckad
+Common_World,värld
+Common_SendButton,sänd
+Credit_Confirm,är Ni säker?
+Credit_NotEnough,"värld, köp"
+Credit_Self,ni kan inte sända världen till er själva
+Description_Mentions_Commented_Image,den har kommenterat din bild
+Description_Mentions_Commented_Text,den har kommenterat din skrivelse
+Description_Mentions_Favourited_Image,den har lagt din bild till sina favoriter
+Description_Mentions_Favourited_Text,den har lagt din skrivelse till sina favoriter
+Description_Mentions_Liked_Image,den har tyckt om din bild
+Description_Mentions_Liked_Text,den har tyckt om din skrivelse
+Description_Mentions_Mentioned,den har påmint dig
+Description_Mentions_Shared_Image,den har delat din bild med världen
+Description_Mentions_Shared_Text,den har delat din skrivelse med världen
+Description_Mentions_Video_Image,den har bifogat video på din bild
+Description_Mentions_Video_Text,den har bifogat video på din skrivelse
+Description_Telescope_Favourited,lagt till sina favoriter
+Description_Telescope_Followed,följt efter
+Description_Telescope_Liked,tyckt om
+Description_Telescope_Shared,delat med världen
+Email_Mentioned,%username%  talat om dig
+Email_Comment_Image,%username% kommenterat din bild
+Email_Comment_Text,%username% kommenterat din skrivelse
+Email_Favorited_Text,%username% lagt din skrivelse till favoriter
+Email_Favorited_Image,%username% lagt din bild till favoriter
+Email_Follow,%username% har börjat följa efter dig
+Email_Like_Image,%username% tyckt om din bild
+Email_Like_Text,%username% tyckt om din skrivelse
+Email_PasswordReset,er worldself kod har förnyats
+Email_ResetPasswordConfirmation,om ni vill förnya worldself kod klickpa på nedanstående länk
+Email_VerifiedAccountApplicationApproved,er worldself konto har bekräftat
+Email_VerifiedAccountApplicationReceived," Er ansökan om worldself konto har kommit till oss, för bekräftelse skicka från % username % twitter applikation en tweet "
+Email_Video_Text,%username% videon har lagts till er skrivelse
+Email_Video_Image,%username% videon har lagts till er bild
+Email_Welcome,Välkommen till worldself. Om Ni inte har genomfört registreringen meddela detta till support@worldself.com 
+Favourites_AlreadyAdded,Denna meddelande är redan lagts till era favoriter
+Favourites_NotAdded,Denna meddelande finns inte bland favoriter
+Feeders_Send,sänd
+Follow_AlreadyFollowed,denna person följs redan
+Follow_NotFollowed,denna person följs inte
+Follow_SelfFollowWarning,Ni kan inte följa efter Er själv
+Likes_AlreadyLiked,Detta meddelande har redan tyckts till
+Likes_NotLiked,Meddelandet har ej tyckts om
+Logoff_Failed,Misslyckat
+Logon_Failed,Misslyckat
+Logon_ForgetPassword,Jag har glömt min kod
+Logon_Password,lösenord
+Logon_Register,bli medlem
+Logon_Remember,kom ihåg mig
+Logon_SignIn,Ingång
+Logon_SignUp,Registrera
+Logon_VerifiedAccount,Konto
+Logon_UsernameOrEmail, användrar namn eller e-post
+LogonFailed, felaktig användrar namn eller kod
+LogonModel_PasswordRequired,koden kan inte vara tom
+LogonModel_UsernameRequired,användrarnamn kan inte vara tom
+Membership_Banned,kontot är blockerat för användning
+Message,sänd
+Message_NotDelivered,meddelandet ej skickats
+Password_CharacterLong,lösenord bör vara minst 4 karaktär
+Password_Match,lösenord och bekräftelsen av lösenord är skilda från varandra
+Post,sänd
+Register_EMail,e-posta adress
+Register_FullName,namn efternamn
+Register_Password,lösenord
+Register_PasswordConfirm,bekröfta lösenordet
+Register_Submit,registrera
+Register_Title,registrera
+Register_Username,användrar namn
+RegisterModel_EmailRequired,det behövs e-post adress
+RegisterModel_FullNameRequired,det behövs namn
+RegisterModel_PasswordConfirmRequired,det behövs bekräftelse av lösenord
+RegisterModel_PasswordMismatch,lösenord och bekräftelsen av lösenord är skilda från varandra
+RegisterModel_PasswordRequired,det behövs lösenord
+RegisterModel_PasswordStringLength,lösenord kan vara max 20 karaktär
+RegisterModel_UsernameInvalid,ogiltig användrarnamn
+RegisterModel_UsernameRequired,det behövs användrarname
+Reports_AlreadyReported,denna meddelande är redan blivit klagat
+ResetPassword_Failed,denna e-post adress är ej registrerad
+ResetPassword_ForgetPassword,jag har glömt min kod
+ResetPassword_Send,sänd
+ResetPassword_Succeeded,nödvändiga uppgifter för förnyelse av er kod skickats till er e-post adress
+ResetPassword_YourEmail,er e-post adress
+ResetPasswordModel_InvalidEmailAdress,ogiltig e-post adress
+Share,dela med er
+Spam_AlreadySpammed,denna person är redan anmälts som  skräppost
+Spam_Self,ni kan inte anmäla er som skräppost
+Spam_Spam,skräppost
+TextPostModel_Long,meddelandet kan inte vara längre än      karaktärer
+TextPostModel_TextRequired,meddelande ruta kan inte vara tom
+User_About,om detta
+User_Followers,följaren
+User_Followings,följ
+User_WorldHistory,världens bakgrund
+User_InviteFriends,kalla era vänner
+User_NotExists,användaren är ej beskrivits
+User_Photos,photo
+User_SetProfile,ställ profil
+User_Settings,regleringar
+User_ShowAll,visa hela
+User_Favorites,favoriter
+VerifiedAccount_ApplicationReceived,er meddelande har tagits emot. Kontrollera e post
+World_CannotBeShared,denna meddelande kan inte delas med sig
+Block_Block,bloket
+Block_Unblock,ta bort blockeringen
+Settings_Language,språk
+Settings_Country,land
+Settings_City,stad
+Gift_Received,världen har skickat
+Credit_Sent,ni har sänd värld
+Credit_Spent,ni har önvänt wärlden
+Camera_FromAlbum,välj från albumet
+Camera_TakePhoto,fotografera
+Common_Search,sök
+Common_Delete,radera
+User_SendMessage,sänd meddelande
+Settings_BlockedList,listan på dem som är blockerade
+Common_Save,registrera
+User_ProfilePhoto,profil photo
+User_HeaderPhoto,rubrik photo
+User_FullName,namn efternamn
+User_FollowRequests,Följarnas begäran
+Register_AcceptTerms,jag accepterar sevice villkorun
+Settings_ProfileOpen,öppen
+Settings_ProfilePrivate,hemlig
+Settings_Profile,profil
+Common_Day,dag
+Common_Hour,timma
+Common_Minutes,minut
+Common_Seconds,sekund
+Common_Show,visa
+Common_Logout,utgång
+Description_Commented,kommenterade
+Common_Month,månad
+Common_Day,dag
+Common_Year,år
+Common_All,alla
+Common_Report,rapportera
+VerifiedAccountForm_Title,godkänd räkning ansökan
+Common_Help,hjälpa

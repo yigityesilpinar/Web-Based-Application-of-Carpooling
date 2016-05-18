@@ -1,0 +1,168 @@
+Key,Value
+Block_AlreadyBlocked,Denne person er allerede blokeret
+Block_Self,De kan ikke blokere Dem selv
+Buy,Køb
+ChangePassword_CurrentPassword,Password
+ChangePassword_Failed,Password kunne ikke ændres
+ChangePassword_NewPassword,Nyt password
+ChangePassword_NewPasswordConfirm,Bekræft nye password
+ChangePassword_Submit,Ændres
+ChangePassword_Succeeded,Password er ændret
+Comment,Send
+CommentModel_Long,Bemærkninge må ikke være mere end … karakterer
+CommentModel_Required,Bemærkning er nødvendigt
+Comments_NoPermission,Du har ikke tilladelse til at ændre denne bemærkning
+Comments_NotExists,En sådan bemærkning findes ikke
+Common_AlreadyBanned,Denne side er lukket
+Common_AndOther,Og andre
+Common_Back,Tilbage
+Common_HasBeenBlocked,Du er blevet blokeret 
+Common_HasBlocked,Du har blokeret
+Common_InvalidEmailAddress,Ugyldig e-mail adresse
+Common_NoConnection,Kontroller din internet forbindelse
+Common_NoPermission,Du har ikke tilladelse
+Common_NoRecord,Ikke registreret
+Common_SendCredit,Send
+Common_UnknownError,En fejl opstod
+Common_Unsuccessful,Mislykkedes
+Common_World,Verden
+Common_SendButton,Send
+Credit_Confirm,Er Du sikker
+Credit_NotEnough,Få lige hvad lyst til
+Credit_Self,Du kan få alt i denne verden
+Description_Mentions_Commented_Image,Der er bemærkninger til dit billede
+Description_Mentions_Commented_Text,Der er bemærkninger til dit indlæg
+Description_Mentions_Favourited_Image,Dit billede er blevet føjet til favoritterne
+Description_Mentions_Favourited_Text,Dit indlæg er blevet føjet til favoritterne
+Description_Mentions_Liked_Image,Dit billede er blevet liked
+Description_Mentions_Liked_Text,Dit indlæg er blevet liked
+Description_Mentions_Mentioned,Du er blevet omtalt
+Description_Mentions_Shared_Image,Dit billede er blevet delt
+Description_Mentions_Shared_Text,Dit indlæg er blevet delt
+Description_Mentions_Video_Image,Dit billede er blevet føjet til video
+Description_Mentions_Video_Text,Dit indlæg er blevet føjet til video
+Description_Telescope_Favourited,Er blevet føjet til favoritterne
+Description_Telescope_Followed,Er blevet fulgt
+Description_Telescope_Liked,Liked
+Description_Telescope_Shared,Er blevet delt
+Email_Mentioned,%username% har omtalt dig
+Email_Comment_Image,%username% har bemærkninger til dit billede
+Email_Comment_Text,%username% har bemærkninger til dit indlæg
+Email_Favorited_Text,%username% har føjet dit indlæg til sine favoritter
+Email_Favorited_Image,%username% har føjet dit billede til sine favoritter
+Email_Follow,%username% er begyndt at følge dig
+Email_Like_Image,%username% har liked dit billede
+Email_Like_Text,%username% har liked dit indlæg
+Email_PasswordReset,worldself password er blevet fornyet
+Email_ResetPasswordConfirmation,klik på forbindelsen nedenfor hvis du ønsker at ændre dit worldself password 
+Email_VerifiedAccountApplicationApproved,Din worldself konto er bekræftet
+Email_VerifiedAccountApplicationReceived,"Din henvendelse vedrørende bekræftet worldself konto er modtaget. 
+For at vi kan bekræfte din henvendelse, bedes du fra din twitter konto med %username% skrive en tweet til %verifiedaccountcode% "
+Email_Video_Text,%username% indlæg er blevet føjet til video
+Email_Video_Image,%username% billede er blevet føjet til video
+Email_Welcome,"Velkommen til worldself hvis du ikke har kunne foretage din registrering, bør du oplyse dette til support@worldself.com "
+Favourites_AlreadyAdded,Dette er allerede føjet til dine favoritter
+Favourites_NotAdded,Det sendte findes blandt dine favoritter
+Feeders_Send,Send
+Follow_AlreadyFollowed,Denne person er allerede fulgt
+Follow_NotFollowed,Denne person er ikke fulgt
+Follow_SelfFollowWarning,Du kan ikke følge dig selv
+Likes_AlreadyLiked,Dette er allerede blevet liked
+Likes_NotLiked,Dette er ikke blevet liked
+Logoff_Failed,Transaktionen kunne ikke finde sted
+Logon_Failed,Transaktionen kunne ikke finde sted
+Logon_ForgetPassword,Glemt password
+Logon_Password,Password
+Logon_Register,Bliv medlem
+Logon_Remember,Husk mig
+Logon_SignIn,Sign in
+Logon_SignUp,Sign up
+Logon_VerifiedAccount,Konto
+Logon_UsernameOrEmail,Brugers navn eller e-mail
+LogonFailed,Fejl enten ved bruger navn eller e-mail
+LogonModel_PasswordRequired,Password skal udfyldes
+LogonModel_UsernameRequired,Brugers navn skal udfyldes
+Membership_Banned,Kontoen er lukket
+Message,Send
+Message_NotDelivered,Beskeden ikke leveret
+Password_CharacterLong,Password skal mindst bestå af 4 karakterer
+Password_Match,Password og bekræftelse af password er forskellig
+Post,Send
+Register_EMail,E-mail adresse
+Register_FullName,Fulde navn
+Register_Password,Password
+Register_PasswordConfirm,Bekræftelse af password
+Register_Submit,Registrer
+Register_Title,Registrer
+Register_Username,Brugers navn
+RegisterModel_EmailRequired,E-mail adresse er nødvendig
+RegisterModel_FullNameRequired,Fulde navn er nødvendig
+RegisterModel_PasswordConfirmRequired, Bekræftelse af password er nødvendig
+RegisterModel_PasswordMismatch,Password og bekræftelse af password er forskellig
+RegisterModel_PasswordRequired,Password er nødvendig
+RegisterModel_PasswordStringLength,Password kan bestå af mindst 20 karakterer
+RegisterModel_UsernameInvalid,Ugyldigt bruger navn
+RegisterModel_UsernameRequired,Bruger navn nødvendigt
+Reports_AlreadyReported,Dette er allerede rapporteret
+ResetPassword_Failed,Denne e-mail adresse er ikke korrekt
+ResetPassword_ForgetPassword,Glemt password
+ResetPassword_Send,Send
+ResetPassword_Succeeded,Nødvendige oplysninger for at kunne forny dit password er sendt til din e-mail adresse
+ResetPassword_YourEmail,Din e-mail adresse
+ResetPasswordModel_InvalidEmailAdress,Ugyldig e-mail adresse
+Share,Del
+Spam_AlreadySpammed,Denne person er allerede blevet rapporteret som spam
+Spam_Self,Du kan ikke rapportere dig selv som spam
+Spam_Spam,spam
+TextPostModel_Long,Det sendte må ikke være mere end … karakterer
+TextPostModel_TextRequired,Det sendte må ikke være tom
+User_About,Om
+User_Followers,Følgere
+User_Followings,Følgende
+User_WorldHistory,Verdens historie
+User_InviteFriends,Inviter dine venner
+User_NotExists,Bruger eksisterer ikke
+User_Photos,Fotografi
+User_SetProfile,Revider din profil
+User_Settings,Settings
+User_ShowAll,Vis alt
+User_Favorites,Favoritter
+VerifiedAccount_ApplicationReceived,"Din henvendelse er modtaget, kontroller din e-mail"
+World_CannotBeShared,Det sendte kan ikke deles
+Block_Block,Bloker
+Block_Unblock,Ophæv blokering
+Settings_Language,Sprog
+Settings_Country,Land
+Settings_City,By
+Gift_Received,Modtaget
+Credit_Sent,Sent
+Credit_Spent,Brugt
+Camera_FromAlbum,Vælg fra album
+Camera_TakePhoto,Tag et fotografi
+Common_Search,Søg
+Common_Delete,Slet
+User_SendMessage,Send besked
+Settings_BlockedList,Liste over blokerede
+Common_Save,Gem
+User_ProfilePhoto,Profilfotografi
+User_HeaderPhoto,Overskriftsfotografi
+User_FullName,Fulde navn
+User_FollowRequests,Følg anmodninger
+Register_AcceptTerms,Jeg accepterer betingelserne for service
+Settings_ProfileOpen,Åben
+Settings_ProfilePrivate,Privat
+Settings_Profile,profil
+Common_Day,Dag
+Common_Hour,Time
+Common_Minutes,Minutter
+Common_Seconds,Sekunder
+Common_Show,vis
+Common_Logout,exit
+Description_Commented,kommenterede
+Common_Month,måned
+Common_Day,dag
+Common_Year,år
+Common_All,alle
+Common_Report,klag
+VerifiedAccountForm_Title,godkendt konto ansøgning
+Common_Help,hjælp

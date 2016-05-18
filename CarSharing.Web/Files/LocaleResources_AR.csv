@@ -1,0 +1,167 @@
+Key,Value
+Block_AlreadyBlocked,تم حظر هذا الشخص سابقاً
+Block_Self,لا يمكن أن تحظر نفسك
+Buy,إشتري
+ChangePassword_CurrentPassword,كلمة السر
+ChangePassword_Failed,لم يتم تغيير كلمة السر
+ChangePassword_NewPassword,كلمة السر الجديدة
+ChangePassword_NewPasswordConfirm,كلمة السر الجديدة مرة أخرى
+ChangePassword_Submit,قم بالتغيير
+ChangePassword_Succeeded,تم تغيير كلمة السر
+Comment,أرسل
+CommentModel_Long,التعليق لا يمكن أن يكون أكثر من .....حرف
+CommentModel_Required,يجب وضع تعليق
+Comments_NoPermission,لا توجد لديك صلاحية بمسح التعليق
+Comments_NotExists,لا يوجد تعليق بهذا الشكل
+Common_AlreadyBanned,تم غلق هذا الحساب
+Common_AndOther,وغيره
+Common_Back,رجوع
+Common_HasBeenBlocked,تم حظرك من قبل هذا الشخص
+Common_HasBlocked,قمت بحظر هذا الشخص
+Common_InvalidEmailAddress,بريد إلكتروني ليس بالساري
+Common_NoConnection,قم بالتأكد من الإنترنت
+Common_NoPermission,لاتوجد لديك صلاحية
+Common_NoRecord,لا يوجد تسجيل
+Common_SendCredit,أرسل
+Common_UnknownError,تشكل خطأ
+Common_Unsuccessful,لم يتم إتمام العملية
+Common_World,العالم
+Common_SendButton,أرسل
+Credit_Confirm,هل أنت متأكد؟
+Credit_NotEnough,إشتري العالم
+Credit_Self,لا يمكن إرسال العالم لك
+Description_Mentions_Commented_Image,قام بالتعليق على صورتك
+Description_Mentions_Commented_Text,قام بالتعليق على كتابتك
+Description_Mentions_Favourited_Image,قام بإضافة صورتك إلى المفضل
+Description_Mentions_Favourited_Text,قام بإضافة كتابتك إلى المفضل
+Description_Mentions_Liked_Image,أعجب بصورتك
+Description_Mentions_Liked_Text,أعجب بكتابتك
+Description_Mentions_Mentioned,تحدث عنك
+Description_Mentions_Shared_Image,شارك بصورتك مع العالم
+Description_Mentions_Shared_Text,شارك بكتابتك مع العالم
+Description_Mentions_Video_Image,أضاف فيديو إلى صورتك
+Description_Mentions_Video_Text,أضاف فيديو إلى كتابتك
+Description_Telescope_Favourited,أضاف إلى المفضل لديه
+Description_Telescope_Followed,تابع
+Description_Telescope_Liked,أعجب
+Description_Telescope_Shared,شارك مع العالم
+Email_Mentioned,%username% تحدث عنك
+Email_Comment_Image,%username% علق على صورتك  
+Email_Comment_Text,%username% علق على كتابتك  
+Email_Favorited_Text,%username% أضاف كتابتك إلى المفضل
+Email_Favorited_Image,%username% أضاف صورتك إلى المفضل
+Email_Follow,%username%بدأ بمتابعتك
+Email_Like_Image,%username% أعجب بصورتك
+Email_Like_Text,%username%أعجب بكتابتك
+Email_PasswordReset,تم تجديد كلمة السر لورلد سلف
+Email_ResetPasswordConfirmation,إضغط على الرابط أدناه لتغيير كلمة سرك في ورلدسلف
+Email_VerifiedAccountApplicationApproved,تمت الموافقة على حسابك في ورلدسلف
+Email_VerifiedAccountApplicationReceived,"وصلنا طلب حسابك الموافق عليه في ورلدسلف. لتمكننا من الموافقة على طلبكم قم بإرسال تغريدة من حسابك %username % في تويتر مكتوب بها % verfiedaccountcode %.
+Email_Video_Text,%username% أضاف فيديو لكتابتك
+Email_Video_Image,%username% أضاف فيديو لصورتك
+Email_Welcome,"أهلا بك في ورلد سلف. إذا لم تكن أنت من قمت بالتسجيل يرجى إبلاغ ذلك إلى بريد support@worldself.com 
+Favourites_AlreadyAdded,هذا المرسل تمت إضافته سابقاً غلى المفضل
+Favourites_NotAdded,لا يتواجد المرسل من بين المفضل لديك
+Feeders_Send,أرسل
+Follow_AlreadyFollowed,هذا الشخص متابع
+Follow_NotFollowed,هذا الشخص غير متابع
+Follow_SelfFollowWarning,لا يمكن أن تتابع نفسك
+Likes_AlreadyLiked,تم الإعجاب بهذا المرسل سابقاً
+Likes_NotLiked,لم يتم الإعجاب بهذا المرسل
+Logoff_Failed,لم يتم إتمام العملية
+Logon_Failed,لم يتم إتمام العملية
+Logon_ForgetPassword,نسيت كلمة السر
+Logon_Password,كلمة السر
+Logon_Register,سجل عضويتك
+Logon_Remember,تذكرني
+Logon_SignIn,دخول
+Logon_SignUp,قم بالتسجيل
+Logon_VerifiedAccount,الحساب
+Logon_UsernameOrEmail,إسم المستخدم أو البريد الإلكتروني
+LogonFailed,إسم مستخدم أو كلمة شر خاطئة
+LogonModel_PasswordRequired,لا يمكن ترك مكان كلمة السر فارغاً
+LogonModel_UsernameRequired,لا يمكن ترك مكان إسم المستخدم فارغاً
+Membership_Banned,تم إغلاق الحساب
+Message,أرسل
+Message_NotDelivered,لم تصل الرسالة
+Password_CharacterLong,يجب أن تكون كلمة السر على الأقل 4 حروف
+Password_Match,كلمة السر والموافقة على كلمة السر لا تعني معنى واحد
+Post,أرسل
+Register_EMail,عنوان البريد الإلكتروني
+Register_FullName,الإسم الكامل
+Register_Password,كلمة السر
+Register_PasswordConfirm,الموافقة على كلمة السر
+Register_Submit,قم بالتسجيل
+Register_Title,قم بالتسجيل
+Register_Username,إسم المستخدم
+RegisterModel_EmailRequired,البريد الإلكتروني ضروري
+RegisterModel_FullNameRequired,الإسم الضروري
+RegisterModel_PasswordConfirmRequired,يجب الموافقة على كلمة السر
+RegisterModel_PasswordMismatch,كلمة السر والموافقة على كلمة السر لا تعني معنى واحد
+RegisterModel_PasswordRequired,كلمة السر ضرورية
+RegisterModel_PasswordStringLength,يجب أن تكون كلمة السر على الأكثر 20 حرف
+RegisterModel_UsernameInvalid,إسم مستخدم غير مقبول
+RegisterModel_UsernameRequired,إسم المستخدم ضروري
+Reports_AlreadyReported,تمت شكوى هذا المرسل سابقاً
+ResetPassword_Failed,البريد الإلكتروني غير مسجل
+ResetPassword_ForgetPassword,نسيت كلمة السر
+ResetPassword_Send,أرسل
+ResetPassword_Succeeded,تم إرسال المعلومات الضرورية لتغير كلمة السر إلى البريد الإلكتروني
+ResetPassword_YourEmail,بريدك الإلكتروني
+ResetPasswordModel_InvalidEmailAdress,بريد إلكتروني غير مقبول
+Share,شارك
+Spam_AlreadySpammed,تم الإبلاغ سابقاً عن كون هذا الشخص مصدر إزعاج
+Spam_Self,لا يمكن أن تبلغ عن نفسك كمصدر إزعاج
+Spam_Spam,مصدر إزعاج
+TextPostModel_Long,لا يمكن أن يكون المرسل أكثر من.....حرف
+TextPostModel_TextRequired,من غير الممكن أن يكون مكان المرسل فارغاً
+User_About,بخصوصه
+User_Followers,متابع
+User_Followings,متابعة
+User_WorldHistory,ماضي العالم
+User_InviteFriends,أرسل دعوة لأصدقائك
+User_NotExists,المستخدم غير معروف
+User_Photos,صورة
+User_SetProfile,نظم الحساب
+User_Settings,العيارات
+User_ShowAll,أظهره بالكامل
+User_Favorites,المفضل
+VerifiedAccount_ApplicationReceived,تم الحصول على طلبك.الرجاء الرجوع إلى بريدك الإلكتروني
+World_CannotBeShared,لا يمكن المشاركة بهذا المرسل
+Block_Block,إحظر
+Block_Unblock,ألغي الحظر
+Settings_Language,اللغة
+Settings_Country,الدولة
+Settings_City,المدينة
+Gift_Received,مرسل من العالم
+Credit_Sent,أرسلت إلى العالم
+Credit_Spent,إستخدمت العالم
+Camera_FromAlbum,إختار من الألبوم
+Camera_TakePhoto,صور صورة
+Common_Search,إبحث
+Common_Delete,إمسح
+User_SendMessage,أرسل رسالة
+Settings_BlockedList,المحظورين
+Common_Save,سجل عضويتك
+User_ProfilePhoto,صورة الحساب
+User_HeaderPhoto,عنوان الصورة
+User_FullName,الإسم الكامل
+User_FollowRequests,طلبات المتابعين
+Register_AcceptTerms,أوافق على شروط الخدمة
+Settings_ProfileOpen,مفتوح
+Settings_ProfilePrivate,سري
+Settings_Profile,الحساب
+Common_Day,يوم
+Common_Hour,ساعة
+Common_Minutes,دقيقة
+Common_Seconds,ثانية
+Common_Show,أظهر
+Common_Logout,خروج
+Description_Commented,قام بالتعليق
+Common_Month,شهر
+Common_Day,يوم
+Common_Year,سنة
+Common_All,جميعه
+Common_Report,قدم شكوى
+VerifiedAccountForm_Title,إستمارة حساب مقبول
+Common_Help,مساعدة

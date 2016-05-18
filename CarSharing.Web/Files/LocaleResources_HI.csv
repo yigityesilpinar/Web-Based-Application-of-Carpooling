@@ -1,0 +1,167 @@
+Key,Value
+Block_AlreadyBlocked,यह व्यक्ति पहले से ही ब्लाक किया जा चुका है 
+Block_Self,आप स्वयं को ब्लाक नहीं कर सकते 
+Buy,खरीदें 
+ChangePassword_CurrentPassword,पासवर्ड 
+ChangePassword_Failed,पासवर्ड परिवर्तन असफल 
+ChangePassword_NewPassword,नया पासवर्ड 
+ChangePassword_NewPasswordConfirm,नया पासवर्ड कन्फर्म करें 
+ChangePassword_Submit,पररिवर्तित करें / बदलें 
+ChangePassword_Succeeded,पासवर्ड परिवर्तन सफल
+Comment,भेजें 
+CommentModel_Long,कमेन्ट … कैरेक्टर से लंबा नहीं हो सकता 
+CommentModel_Required,कमेन्ट आवश्यक है 
+Comments_NoPermission,आप इस कमेन्ट को डिलीट करने के लिए अधिकृत नहीं हैं 
+Comments_NotExists,यह कमेन्ट मौजूद नहीं है 
+Common_AlreadyBanned,या अकाउंट पहले से ही प्रतिबंधित है  
+Common_AndOther,और अन्य 
+Common_Back,वापिस 
+Common_HasBeenBlocked,इस व्यक्ति ने आपको ब्लाक किया हुआ है 
+Common_HasBlocked,आपने इस व्यक्ति को ब्लाक किया हुआ है 
+Common_InvalidEmailAddress,अवैध ई-मेल पता 
+Common_NoConnection,अपना इंटरनेट कनेक्शन जाँच लें 
+Common_NoPermission,आपको इसकी अनुमति नहीं है 
+Common_NoRecord,कोई रिकार्ड नहीं 
+Common_SendCredit,भेजें  
+Common_UnknownError,एक अज्ञात त्रुटि घटित हुई 
+Common_Unsuccessful,यह आपरेशन असफल रहा 
+Common_World,विश्व 
+Common_SendButton,भेजें 
+Credit_Confirm,क्या आप आश्वस्त हैं ? 
+Credit_NotEnough,विश्व को खरीदें 
+Credit_Self,आप विश्व स्वयं को नहीं भेज सकते 
+Description_Mentions_Commented_Image,ने आपकी तस्वीर पर कमेन्ट किया है 
+Description_Mentions_Commented_Text,ने आपके लेखन पर कमेन्ट किया है 
+Description_Mentions_Favourited_Image,ने आपकी तस्वीर को फेवरेट में ऐड किया है 
+Description_Mentions_Favourited_Text,ने आपके लेखन को फेवरेट में ऐड किया है
+Description_Mentions_Liked_Image,ने आपकी तस्वीर को लाईक (पसंद) किया है 
+Description_Mentions_Liked_Text,ने आपके लेखन को लाईक किया है । 
+Description_Mentions_Mentioned,ने आपका ज़िक्र किया 
+Description_Mentions_Shared_Image,ने आपकी तस्वीर विश्व के साथ सांझा की है 
+Description_Mentions_Shared_Text,ने आपका लेखन विश्व के साथ सांझा किया है 
+Description_Mentions_Video_Image,ने आपकी तस्वीर में एक वीडियो ऐड किया है 
+Description_Mentions_Video_Text,ने आपके लेखन में एक वीडियो ऐड किया है 
+Description_Telescope_Favourited,ने फेवरेट में ऐड किया है 
+Description_Telescope_Followed,ने फालो (अनुसरण)  किया है 
+Description_Telescope_Liked,लाईक (पसंद)  किया 
+Description_Telescope_Shared,ने विश्व के साथ शेयर (सांझा) किया 
+Email_Mentioned,% username% ने आपका ज़िक्र किया है 
+Email_Comment_Image,% username% ने आपकी तस्वीर पर कमेन्ट किया है 
+Email_Comment_Text,% username% ने आपके लेखन पर कमेन्ट किया है 
+Email_Favorited_Text,% username% ने आपके लेखन को फेवरेट में ऐड किया है 
+Email_Favorited_Image,% username% ने आपकी तस्वीर को फेवरेट में ऐड किया है 
+Email_Follow,% username% ने आपका अनुसरण (फालो) करना आरंभ किया है 
+Email_Like_Image,% username% ने आपकी तस्वीरें लाईक (पसंद) की हैं 
+Email_Like_Text,% username% ने आपका लेखन लाईक किया है 
+Email_PasswordReset,आपका वर्ल्डसेल्फ पासवर्ड रीसेट हो गया है 
+Email_ResetPasswordConfirmation,यदि आप अपना वर्ल्डसेल्फ पासवर्ड रीसेट करना चाहते हैं तो निम्न लिंक पर क्लिक करें । 
+Email_VerifiedAccountApplicationApproved,आपका वर्ल्डसेल्फ अकाउंट मंज़ूर हो गया है 
+Email_VerifiedAccountApplicationReceived,हमने आपका अनुमोदित वर्ल्डसेल्फ अकाउंट आवेदन प्राप्त कर किया है । इस आवेदन को कंफ़र्म करने के लिए आपको अपने ट्विट्टर अकाउंट % username% से एक ट्वीट भेजना होगा जिसमें स्क्रिपचर होगा % verifiedaccountcode %. 
+Email_Video_Text,% username% ने आपके लेखन में एक वीडियो ऐड किया है
+Email_Video_Image,% username% ने आपकी तस्वीर में एक वीडियो ऐड किया है
+Email_Welcome,वर्ल्डसेल्फ में आपका स्वागत है । यदि आपने अपना पंजीकरण (रजिस्ट्रेशन) पूरा नहीं किया है तो हमें support@worldself.com पर सूचित करें । 
+Favourites_AlreadyAdded,यह प्रकाशन पहले ही आपके फेवरेट में ऐड कर दिया गया है । 
+Favourites_NotAdded,यह प्रकाशन आपके फेवरेट में नहीं है 
+Feeders_Send,भेजें 
+Follow_AlreadyFollowed,इस व्यक्ति का पहले से ही अनुसरण किया जा रहा है 
+Follow_NotFollowed,इस व्यक्ति का अनुसरण नहीं किया जा रहा हैं 
+Follow_SelfFollowWarning,आप स्वयं का अनुसरण नहीं कर सकते 
+Likes_AlreadyLiked,यह प्रकाशन पहले से ही लाईक किया जा चुका है 
+Likes_NotLiked,यह प्रकाशन लाईक नहीं किया गया है 
+Logoff_Failed,आपरेशन सफल 
+Logon_Failed,आपरेशन असफल 
+Logon_ForgetPassword,मुझे अपना पासवर्ड याद नहीं 
+Logon_Password,पासवर्ड 
+Logon_Register,लाग आन 
+Logon_Remember,मुझे याद रखें 
+Logon_SignIn,साईन इन करें 
+Logon_SignUp,साईन अप करें 
+Logon_VerifiedAccount,अकाउंट 
+Logon_UsernameOrEmail,यूज़रनेम या ई-मेल 
+LogonFailed,गलत यूजरनेम अथवा ई-मेल 
+LogonModel_PasswordRequired,पासवर्ड रिक्त नहीं हो सकता 
+LogonModel_UsernameRequired,यूज़रनेम रिक्त नहीं हो सकता 
+Membership_Banned,यह अकाउंट प्रतिबंधित है  
+Message,भेजें 
+Message_NotDelivered,यह मैसेज (संदेश) पहुंचाया नहीं जा सका 
+Password_CharacterLong,पासवर्ड कम से कम 4 कैरेक्टर का होना आवश्यक है 
+Password_Match,पासवर्ड एवं पासवर्ड कंफ़र्मेशन (पुष्टि) एक दूसरे से भिन्न हैं 
+Post,भेजें 
+Register_EMail,ई-मेल का पता 
+Register_FullName,नाम व सरनेम 
+Register_Password,पासवर्ड 
+Register_PasswordConfirm,पासवर्ड कंफ़र्मेशन (पुष्टि)  
+Register_Submit,साईन अप 
+Register_Title,साईन अप 
+Register_Username,यूज़रनेम 
+RegisterModel_EmailRequired,ई-मेल का पता आवश्यक है 
+RegisterModel_FullNameRequired,नाम आवश्यक है 
+RegisterModel_PasswordConfirmRequired,पासवर्ड कंफ़र्मेशन (पुष्टि) आवश्यक है 
+RegisterModel_PasswordMismatch,पासवर्ड एवं पासवर्ड कंफ़र्मेशन (पुष्टि) एक दूसरे से भिन्न हैं
+RegisterModel_PasswordRequired,पासवर्ड आवश्यक है 
+RegisterModel_PasswordStringLength,पासवर्ड अधिकतम 20 कैरेक्टर का हो सकता है 
+RegisterModel_UsernameInvalid,अवैध यूज़रनेम 
+RegisterModel_UsernameRequired,यूज़रनेम आवश्यक है 
+Reports_AlreadyReported,यह प्रकाशन पहले से ही रिपोर्ट किया जा चुका है 
+ResetPassword_Failed,यह ई-मेल का पता पंजीकृत नहीं है 
+ResetPassword_ForgetPassword,मुझे अपना पासवर्ड याद नहीं है 
+ResetPassword_Send,भेजें 
+ResetPassword_Succeeded,आपका पासवर्ड रीसेट करने के लिए आवश्यक सूचना आपके ई-मेल पर भेज दी गई है । 
+ResetPassword_YourEmail,आपका ई-मेल का पता 
+ResetPasswordModel_InvalidEmailAdress,ई-मेल का पता अवैध है 
+Share,सांझा करें 
+Spam_AlreadySpammed,यह व्यक्ति पहले से ही स्पैम के रूप में रिपोर्ट किया जा चुका है 
+Spam_Self,आप स्वयं को स्पैम के रूप में रिपोर्ट नहीं कर सकते 
+Spam_Spam,स्पैम 
+TextPostModel_Long,प्रकाशन ........ केरेक्टर से लंबा नहीं हो सकता 
+TextPostModel_TextRequired,पोस्ट के जाने वाला लेखन रिक्त नहीं हो साता 
+User_About,के विषय में 
+User_Followers,अनुसरणकर्ता 
+User_Followings,अनुचर
+User_WorldHistory,विश्व का इतिहास 
+User_InviteFriends,अपने मित्रों को आमंत्रित करें 
+User_NotExists,यह यूज़र मौजूद नहीं है 
+User_Photos,तस्वीर / चित्र
+User_SetProfile,अपना प्रोफाईल सेट करें 
+User_Settings,सेटिंग्ज़ 
+User_ShowAll,सभी दिखाएँ 
+User_Favorites,फेवरेट 
+VerifiedAccount_ApplicationReceived,"हमें आपका आवेदन प्राप्त हो गया है, कृपया अपना ई-मेल बाक्स चेक करें "
+World_CannotBeShared,यह प्रकाशन सांझा नहीं किया जा सकता 
+Block_Block,ब्लाक 
+Block_Unblock,अनब्लाक 
+Settings_Language,भाषा  
+Settings_Country,देश 
+Settings_City,नगर 
+Gift_Received,एक विश्व भेजा 
+Credit_Sent,आपने एक विश्व भेजा
+Credit_Spent,आपने एक विश्व का प्रयोग किया 
+Camera_FromAlbum,एल्बम में से चुनें  
+Camera_TakePhoto,चित्र खीचें 
+Common_Search,खोजें (सर्च करें)
+Common_Delete,डिलीट 
+User_SendMessage,से संदेश भेजा जाता है 
+Settings_BlockedList,ब्लाक की हुई सूची 
+Common_Save,सेव करें 
+User_ProfilePhoto,प्रोफ़ाईल चित्र 
+User_HeaderPhoto,हैडर चित्र
+User_FullName,नाम व सरनेम 
+User_FollowRequests,अनुचरों के अनुरोध  
+Register_AcceptTerms,मैं प्रयोग की शर्तें मंजूर करता हूँ 
+Settings_ProfileOpen,प्रत्यक्ष 
+Settings_ProfilePrivate,अप्रत्यक्ष 
+Settings_Profile,प्रोफाईल 
+Common_Day,दिन 
+Common_Hour,घंटा 
+Common_Minutes,मिनट 
+Common_Seconds,सेकंड 
+Common_Show,दिखाना
+Common_Logout,निकास
+Description_Commented,उसकी टिप्पणी
+Common_Month,महीना
+Common_Day,दिन
+Common_Year,वर्ष
+Common_All,सभी
+Common_Report,शिकायत
+VerifiedAccountForm_Title,स्वीकृत खाता आवेदन
+Common_Help,सहायता

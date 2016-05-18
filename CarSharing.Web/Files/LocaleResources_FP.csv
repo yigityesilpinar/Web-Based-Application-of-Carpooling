@@ -1,0 +1,166 @@
+Key,Value
+Block_AlreadyBlocked,naka-block na ang taong ito
+Block_Self,hindi maaaring i-block ang iyong sarili
+Buy,bilhin
+ChangePassword_CurrentPassword,password
+ChangePassword_Failed,pumalya ang pagpalit ng password
+ChangePassword_NewPassword,bagong password
+ChangePassword_NewPasswordConfirm,kumpirmahin ang baging password
+ChangePassword_Submit,palitan
+ChangePassword_Succeeded,matagumpay ang pagpalit ng password
+Comment,ipadala
+CommentModel_Long,hindi maaaring mahaba sa … character ang puna
+CommentModel_Required,kinakailangan ang puna
+Comments_NoPermission,hindi pinahihintulutan na tanggalin mo ang punang ito
+Comments_NotExists,hindi umiiral ang punang ito
+Common_AlreadyBanned,naka-ban na ang account na ito
+Common_AndOther,at iba pa
+Common_Back,balik
+Common_HasBeenBlocked,naka-block ka sa taong ito
+Common_HasBlocked,nai-block mo ang taong ito
+Common_InvalidEmailAddress,maling e-mail address
+Common_NoConnection,i-tsek ang iyong koneksyon sa internet
+Common_NoPermission,ikaw ay walang pahintulot
+Common_NoRecord,walang tala
+Common_SendCredit,ipadala
+Common_UnknownError,may naganap na hindi kilalang pagkakamali
+Common_Unsuccessful,pumalya ang operasyon
+Common_World,mundo
+Common_SendButton,ipadala
+Credit_Confirm,sigurado ka?
+Credit_NotEnough,bilhin ang mundo
+Credit_Self,hindi mo maaaring ipadala ang mundo sa iyong sarili
+Description_Mentions_Commented_Image,pinuna ang iyong litrato
+Description_Mentions_Commented_Text,pinuna ang iyong sinulat
+Description_Mentions_Favourited_Image,idinagdag ang iyong litrato sa mga paborito
+Description_Mentions_Favourited_Text,idinagdag ang iyong litrato sa mga paborito
+Description_Mentions_Liked_Image,idinagdag ang iyong sinulat sa mga paborito
+Description_Mentions_Liked_Text,gusto ang iyong sinulat
+Description_Mentions_Mentioned,ibinanggit ka
+Description_Mentions_Shared_Image,ibinahagi ang iyong litrato sa mundo
+Description_Mentions_Shared_Text,ibinahagi ang iyong sinulat sa mundo
+Description_Mentions_Video_Image,nagdagdag ng video sa iyong litrato
+Description_Mentions_Video_Text,nagdagdag ng video sa iyong sinulat
+Description_Telescope_Favourited,nagdagdag sa mga paborito
+Description_Telescope_Followed,sumusunod
+Description_Telescope_Liked,nagustuhan
+Description_Telescope_Shared,ibinahagi sa mundo
+Email_Mentioned,ibinanggit ka ni %username% 
+Email_Comment_Image,pinuna ni %username% ang iyong litrato
+Email_Comment_Text,pinuna ni %username% ang iyong sinulat
+Email_Favorited_Text,dinagdag ni %username% ang iyong sinulat sa mga paborito
+Email_Favorited_Image,dinagdag ni %username% ang iyong litrato sa mga paborito
+Email_Follow,sinimulan kang sundan ni %username%
+Email_Like_Image,nagustuhan ni %username% ang iyong mga litrato
+Email_Like_Text,nagustuhan ni %username% ang iyong mga sinulat
+Email_PasswordReset,nabago ang worldself password
+Email_ResetPasswordConfirmation,i-click ang link sa ibaba kung guso mong baguhin ang iyong worldself password
+Email_VerifiedAccountApplicationApproved,na-aprubahan ang iyong worldself account
+Email_VerifiedAccountApplicationReceived,"natanggap namin ang iyong aprubadong worldself account application.  Upang kumpirmahin ang iyong application, kailangang magpadala ka ng tweet mula sa iyong twitter account %username% na may scripture %verifiedaccountcode%."
+Email_Video_Text,dinagdagan ni %username% ng video ang iyong sinulat
+Email_Video_Image,dinagdagan ni %username% ng video ang iyong litrato
+Email_Welcome,"maligayang pagdating sa worldself.  Kung hindi mo pa naitapos ang pagrehistro, maaaring ipagbigay-alam ito sa amin sa support@worldself.com" Favourites_AlreadyAdded,naidagdag na ang publikasyong ito sa iyong mga paborito
+Favourites_NotAdded,hindi kabilang ang publikasyong ito sa iyong mga paborito
+Feeders_Send,ipadala
+Follow_AlreadyFollowed,sinusundan na ang taong ito
+Follow_NotFollowed,hindi pa sinusundan ang taong ito
+Follow_SelfFollowWarning,hindi mo maaaring sundan ang iyong sarili
+Likes_AlreadyLiked,nagustuhan na ang publikasyong ito
+Likes_NotLiked,hindi pa nagugustuhan ang publikasyong ito
+Logoff_Failed,pumalya ang operasyon
+Logon_Failed,pumalya ang operasyon
+Logon_ForgetPassword,nakalimutan ko ang aking password
+Logon_Password,password
+Logon_Register,log on
+Logon_Remember,tandaan ako
+Logon_SignIn,sign in
+Logon_SignUp,sign up
+Logon_VerifiedAccount,account
+Logon_UsernameOrEmail,username o e-mail
+LogonFailed,maling username o password
+LogonModel_PasswordRequired,hindi maaaring blanko ang password
+LogonModel_UsernameRequired,hindi maaaring blanko ang username
+Membership_Banned,na-ban na ang account na ito
+Message,ipadala
+Message_NotDelivered,hindi naipadala ang mensahe
+Password_CharacterLong,kinakailangan may kahit na 4 na character ang password
+Password_Match,magkaiba ang password at password confirmation 
+Post,ipadala
+Register_EMail,e-mail address
+Register_FullName,pangalan at apelyido
+Register_Password,password
+Register_PasswordConfirm,password confirmation
+Register_Submit,sign up
+Register_Title,sign up
+Register_Username,username 
+RegisterModel_EmailRequired,kinakailangan ang e-mail address
+RegisterModel_FullNameRequired,kinakailangan ang name
+RegisterModel_PasswordConfirmRequired,kinakailangan ang password confirmation
+RegisterModel_PasswordMismatch,magkaiba ang password at password confirmation 
+RegisterModel_PasswordRequired,kinakailangan ang password 
+RegisterModel_PasswordStringLength,maaaring hanggang 20 character ang password
+RegisterModel_UsernameInvalid,walang bisang username
+RegisterModel_UsernameRequired,kinakailangan ang username
+Reports_AlreadyReported,naibalita na ang publikasyong ito
+ResetPassword_Failed,hindi pa nairehistro ang e-mail address na ito
+ResetPassword_ForgetPassword,nakalimutan ko ang aking password
+ResetPassword_Send,ipadala
+ResetPassword_Succeeded,ipinadala sa iyong e-mail address ang impormasyong kinakailangan para sa pag-reset ng iyong password
+ResetPassword_YourEmail,iyong e-mail address
+ResetPasswordModel_InvalidEmailAdress,walang bisang e-mail address
+Share,ibahagi
+Spam_AlreadySpammed,naibalita na na ang taong ito ay spam
+Spam_Self,hindi maaaring ibalita na spam ang iyong sarili
+Spam_Spam,spam
+TextPostModel_Long,hindi maaaring higit sa … character ang publikasyon
+TextPostModel_TextRequired,hindi maaaring i-post ng blanko ang sinulat
+User_About,tungkol sa
+User_Followers,mga sumusunod
+User_Followings,mga sinusunod
+User_WorldHistory,kasaysayan ng mundo
+User_InviteFriends,imbitahin ang iyong mga kaibigan
+User_NotExists,hindi umiiral ang user na ito
+User_Photos,litrato
+User_SetProfile,itaga ang iyong profile
+User_Settings,mga setting
+User_ShowAll,ipakita lahat
+User_Favorites,mga paborito
+VerifiedAccount_ApplicationReceived,"natanggap namin ang iyong application, mangyaring i-check ang iyong e-mail box"
+World_CannotBeShared,hindi maaaring ibahagi ang publikasyong ito
+Block_Block,ibara
+Block_Unblock,tanggalin ang bara
+Settings_Language,wika
+Settings_Country,bansa
+Settings_City,lungsod
+Gift_Received,nagpadala ng mundo
+Credit_Sent,ikaw ay nagpadala ng mundo
+Credit_Spent,ikaw ay gumamit ng mundo
+Camera_FromAlbum,pumili mula sa album
+Camera_TakePhoto,kumuha ng litrato
+Common_Search,hanapin
+Common_Delete,tanggalin
+User_SendMessage,nagpapadala ng mensahe
+Settings_BlockedList,listahan ng mga ibinara
+Common_Save,i-save
+User_ProfilePhoto,litrato ng profile
+User_HeaderPhoto,pangunahing litrato
+User_FullName,pangalan at apelyido
+User_FollowRequests,mga hinihiling ng mga sumusunod
+Register_AcceptTerms,tinatanggap ko ang mga alituntunin sa paggamit
+Settings_ProfileOpen,buksan
+Settings_ProfilePrivate,nakatago
+Settings_Profile,profile
+Common_Day,araw
+Common_Hour,oras
+Common_Minutes,minuto
+Common_Seconds,segundo
+Common_Show,ipakita
+Common_Logout,lumpas
+Description_Commented,sabi niya
+Common_Month,buwan
+Common_Day,araw
+Common_Year,taon
+Common_All,lahat
+Common_Report,reklamo
+VerifiedAccountForm_Title,aprubadong aplikasyon ng account
+Common_Help,tulong

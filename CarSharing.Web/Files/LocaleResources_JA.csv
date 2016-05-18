@@ -1,0 +1,167 @@
+Key,Value
+Block_AlreadyBlocked,この方は既にブロックされた
+Block_Self,自分のことがブロックできない
+Buy, 買う
+ChangePassword_CurrentPassword,パスワード
+ChangePassword_Failed,パスワードの変更に失敗した 
+ChangePassword_NewPassword,新パスワード
+ChangePassword_NewPasswordConfirm,新パスワードの確認
+ChangePassword_Submit,パスワードを変更する
+ChangePassword_Succeeded,パスワードが変更された
+Comment,送信
+CommentModel_Long,コメント ... 文字よりも長くすることはできない
+CommentModel_Required,コメントは必要
+Comments_NoPermission,このコメントが削除することができない
+Comments_NotExists,こんなコメントがない
+Common_AlreadyBanned,アカウントが禁止された 
+Common_AndOther, その他
+Common_Back,戻る
+Common_HasBeenBlocked,この方にブロックされた
+Common_HasBlocked,この方をもうブロックした
+Common_InvalidEmailAddress,無効なメールアドレス　
+Common_NoConnection,インターネットの接続くを確認してください
+Common_NoPermission,権限がない
+Common_NoRecord,記録がない
+Common_SendCredit,送信
+Common_UnknownError,エラーが発生した
+Common_Unsuccessful,不成功
+Common_World,世界
+Common_SendButton,送信
+Credit_Confirm,確認
+Credit_NotEnough,世界を買う
+Credit_Self,自分に世界が送信できない
+Description_Mentions_Commented_Image,あなたの写真についてコメントをした
+Description_Mentions_Commented_Text,コメントであなたについて書いている
+Description_Mentions_Favourited_Image,あなたの写真をお気に入りに登録した
+Description_Mentions_Favourited_Text,あなたのコメントをお気に入りに登録した
+Description_Mentions_Liked_Image,あなたの写真をについて「いいね」と言っている
+Description_Mentions_Liked_Text,あなたの投稿について「いいね」と言っている
+Description_Mentions_Mentioned,コメントであなたについて書いている
+Description_Mentions_Shared_Image,あなたの写真を公開にシェアした
+Description_Mentions_Shared_Text,あなたの投稿を公開にシェアした
+Description_Mentions_Video_Image,あなたの写真に動画を追加した
+Description_Mentions_Video_Text,あなたの投稿に動画を追加した
+Description_Telescope_Favourited,お気に入った
+Description_Telescope_Followed,フォローした
+Description_Telescope_Liked,「いいね」と言っている
+Description_Telescope_Shared,公開にシェアした
+Email_Mentioned,%username% あなたについて書いている
+Email_Comment_Image,%username% あなたの写真にコメントした
+Email_Comment_Text,%username% あなたの投稿にコメントした
+Email_Favorited_Text,%username% あなたのコメントをお気に入った
+Email_Favorited_Image,%username% あなたの写真をお気に入った
+Email_Follow,%username% あなたをフォローした
+Email_Like_Image,%username% あなたの写真について「いいね」と言っている
+Email_Like_Text,%username% あなたの投稿について「いいね」と言っている
+Email_PasswordReset,worldself パスワードの再設定 
+Email_ResetPasswordConfirmation,worldself パスワード再設定 のため下のリンクをクリックしなさい
+Email_VerifiedAccountApplicationApproved,worldself あなたのアカウントが承認された
+Email_VerifiedAccountApplicationReceived,"worldself 承認されたアカウントの申請が受信した 申請が承認できるため %username% とういうツイッターのアカウントで %verifiedaccountcode% ということをツイートしなさい"
+Email_Video_Text,%username% 投稿に動画を追加した
+Email_Video_Image,%username% 写真に動画を追加した
+Email_Welcome,"worldselfへようこそ あなたが登録しない場合「support@worldself.com」というメールアドレスにご報告しなさい"
+Favourites_AlreadyAdded,この投稿が既にお気に入りに追加された
+Favourites_NotAdded,投稿はお気に入りの中にない
+Feeders_Send,送信
+Follow_AlreadyFollowed,この方はもうフォローされている
+Follow_NotFollowed,この方はフォローされていない
+Follow_SelfFollowWarning,自分のことがフォローできない
+Likes_AlreadyLiked,この投稿は既に「いいね」と言われた
+Likes_NotLiked,この投稿は既に「いいね」と言われていない
+Logoff_Failed,実行できない
+Logon_Failed,実行できない
+Logon_ForgetPassword,パスワードを忘れた
+Logon_Password,パスワード
+Logon_Register,登録しなさい
+Logon_Remember,覚えなさい
+Logon_SignIn,ログイン
+Logon_SignUp,サインアップ
+Logon_VerifiedAccount,アカウント
+Logon_UsernameOrEmail,ユーザー名またはメールアドレス
+LogonFailed,ユーザー名またはパスワードが無効
+LogonModel_PasswordRequired,パスワードが必要
+LogonModel_UsernameRequired,ユーザー名が必要
+Membership_Banned,アカウントは削除された
+Message,送信
+Message_NotDelivered,メッセージは配信できなかった
+Password_CharacterLong,パスワードには少なくとも４つの文字が含まれるが必要
+Password_Match,パスワードとパスワードの確認は違う
+Post,送信
+Register_EMail,メールアドレス
+Register_FullName,フルネーム
+Register_Password,パスワード
+Register_PasswordConfirm,パスワードの確認
+Register_Submit,サインアップ
+Register_Title,サインアップ
+Register_Username,ユーザー名
+RegisterModel_EmailRequired,メールアドレスが必要
+RegisterModel_FullNameRequired,フルネームが必要
+RegisterModel_PasswordConfirmRequired,パスワードの確認が必要
+RegisterModel_PasswordMismatch,パスワードとパスワードの確認が違う
+RegisterModel_PasswordRequired,パスワードが必要
+RegisterModel_PasswordStringLength,２０字以下のパスワードを使用してください
+RegisterModel_UsernameInvalid,ユーザー名が無効
+RegisterModel_UsernameRequired,ユーざー名が必要
+Reports_AlreadyReported,この投稿に対して苦情を訴えた
+ResetPassword_Failed,このメールアドレスは登録されていまい
+ResetPassword_ForgetPassword,パスワードを忘れてしまった
+ResetPassword_Send,送信
+ResetPassword_Succeeded,パスワードを更新するため必要なデータがメールで送信された
+ResetPassword_YourEmail,メールアドレス
+ResetPasswordModel_InvalidEmailAdress,無効なメールアドレス
+Share,シェア
+Spam_AlreadySpammed,この方が既に迷惑メールとしてマークされた
+Spam_Self,自分が迷惑メールとしてマークできない
+Spam_Spam,迷惑メール
+TextPostModel_Long,投稿が... 文字以上書けない
+TextPostModel_TextRequired,投稿テキストが空にすることはできない
+User_About,基本データ
+User_Followers,フォロワー
+User_Followings,フォロー
+User_WorldHistory,世界の歴史
+User_InviteFriends,お友達を招待する
+User_NotExists,ユーザーが存在していない
+User_Photos,写真
+User_SetProfile,基本データを編集
+User_Settings,設定
+User_ShowAll,すべて表示する
+User_Favorites,お気に入り
+VerifiedAccount_ApplicationReceived,申請が受信された。メールボックスをチェックしなさい 。
+World_CannotBeShared,この投稿がシェアできない
+Block_Block,ブロックする
+Block_Unblock,ブロック解除
+Settings_Language,言葉
+Settings_Country,国
+Settings_City,町
+Gift_Received,世界を送信した
+Credit_Sent,世界を送信した
+Credit_Spent,世界を使った
+Camera_FromAlbum,ギャラリーから選択
+Camera_TakePhoto,写真を撮影
+Common_Search,通話
+Common_Delete,消除
+User_SendMessage,メッセージは配信できなかった
+Settings_BlockedList,ブロックしている人をすべて表示
+Common_Save,保存
+User_ProfilePhoto,プロフィール写真
+User_HeaderPhoto,ヘッダー画像
+User_FullName,フルネーム
+User_FollowRequests, フォロワー リクエスト
+Register_AcceptTerms,サービス規約を同意する
+Settings_ProfileOpen,公開にシェアした
+Settings_ProfilePrivate,自分のみ
+Settings_Profile,プロフィル
+Common_Day,日
+Common_Hour,時
+Common_Minutes,分
+Common_Seconds,秒
+Common_Show,表示する
+Common_Logout,ログアウト
+Description_Commented,コメントした
+Common_Month,月
+Common_Day,日
+Common_Year,年
+Common_All,全部
+Common_Report,報告
+VerifiedAccountForm_Title,申請が受信された
+Common_Help,ヘルプ

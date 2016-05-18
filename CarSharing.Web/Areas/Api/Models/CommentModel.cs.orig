@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.ComponentModel.DataAnnotations;
+
+namespace DK.Web.Areas.Api.Models
+{
+    public class CommentModel
+    {
+        public string PostId { get; set; }
+
+        public string Username { get; set; }
+
+        public int PostType { get; set; }
+
+        public string ImageUrl { get; set; }
+
+        [Required(ErrorMessage = "CommentModel_Required")]
+        public string Message { get; set; }
+    }
+}

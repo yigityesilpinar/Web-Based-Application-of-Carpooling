@@ -1,0 +1,167 @@
+Key,Value
+Block_AlreadyBlocked,Diese Person ist vorher blockiert 
+Block_Self,Sie können sich nicht selber blockieren
+Buy,Kaufen 
+ChangePassword_CurrentPassword,Ihr Passwort 
+ChangePassword_Failed,Passwort konnte nicht geändert werden
+ChangePassword_NewPassword,Neues Passwort 
+ChangePassword_NewPasswordConfirm,Erneut neues Passwort 
+ChangePassword_Submit,ändern 
+ChangePassword_Succeeded,Passwort geändert 
+Comment,Senden
+CommentModel_Long,Kommentar kann nicht länger als … Zeichen sein
+CommentModel_Required,Kommentar ist erforderlich 
+Comments_NoPermission,Sie sind nicht berechtigt dieses kommentar zu löschen 
+Comments_NotExists,Es konnte solch kein Kommentar gefunden werden
+Common_AlreadyBanned,Dieses Konto ist gespeert 
+Common_AndOther,und die anderen
+Common_Back,Zurück
+Common_HasBeenBlocked,Sie sind durch diese Person blockiert worden 
+Common_HasBlocked,Sie haben diese Person blockiert 
+Common_InvalidEmailAddress,Ungültiges E-Mail 
+Common_NoConnection,Überprüfen Sie Ihre Internetverbindung 
+Common_NoPermission,Sie sind nicht berechtigt 
+Common_NoRecord,Kein Eintrag 
+Common_SendCredit,Senden
+Common_UnknownError,Fehler aufgetreten 
+Common_Unsuccessful,Verfahren konnte nicht durchgeführt werden 
+Common_World,Welt 
+Common_SendButton,Senden
+Credit_Confirm,Sind Sie sicher? 
+Credit_NotEnough,Welt kaufen
+Credit_Self,Sie können sich keine Welt schicken 
+Description_Mentions_Commented_Image,Hat Ihr Bild kommentiert 
+Description_Mentions_Commented_Text,Hat Ihren Kommentar kommentiert 
+Description_Mentions_Favourited_Image,Hat Ihr Bild in ihre Favoriten hinzugefügt 
+Description_Mentions_Favourited_Text,Hat Ihr Schreiben zu Ihren Favoriten hinzugefügt 
+Description_Mentions_Liked_Image,Hat Ihr Bild als gut gefunden 
+Description_Mentions_Liked_Text,Hat Ihr Schreiben als gut gefunden
+Description_Mentions_Mentioned,Hat über Sie gesprochen 
+Description_Mentions_Shared_Image,Hat Ihr Bild mit der Welt gerteilt 
+Description_Mentions_Shared_Text,Hat Ihr Schreiben mit der Welt gerteilt 
+Description_Mentions_Video_Image,Hat Ihrem Bild ein Video hinzugefügt 
+Description_Mentions_Video_Text,Hat Ihrem Schreiben ein Video hinzugefügt 
+Description_Telescope_Favourited,Hat zu Ihren Favoriten hinzugefügt 
+Description_Telescope_Followed,Hat verfolgt 
+Description_Telescope_Liked,Hat es für gut gefunden 
+Description_Telescope_Shared,Hat es mir der Welt gerteilt 
+Email_Mentioned,%username% hat über dich gesprochen 
+Email_Comment_Image,%username% hat dein Bild kommentiert
+Email_Comment_Text,%username% hat dein Schreiben kommentiert 
+Email_Favorited_Text,%username% hat dein Schreiben zu ihren Favoriten hinzugefügt
+Email_Favorited_Image,%username% hat dein Bild zu ihren Favoriten hinzugefügt
+Email_Follow,%username% hat angefangen dich zu verfolgen
+Email_Like_Image,%username% hat dein Bild für gut gefunden
+Email_Like_Text,%username% hat dein Schreiben für gut gefunden
+Email_PasswordReset,Ihr worldself Passwort wurde geändert 
+Email_ResetPasswordConfirmation,Um Ihr wordself Passwort zu ändern klicken Sie auf den unteren Link
+Email_VerifiedAccountApplicationApproved,Ihr worldself Konto wurde genehmigt 
+Email_VerifiedAccountApplicationReceived,Ihr wordlself Konto Bewerbung hat uns erreicht. Um Ihre Bewerbung zu bestätigen müssen Sie von Ihrem Twitter Konto mit dem %username% ein Tweet mit der Schrift %verifiedaccountcode% senden. 
+Email_Video_Text,%username% deinem Schreiben wurde ein Video hinzugefügt
+Email_Video_Image,%username% deinem Bild wurde ein Video hinzugefügt
+Email_Welcome,"Willkommen auf worldself. Wenn Sie die Registrierung nicht durchgeführt haben, bitte informieren Sie uns unter support@worldself.co"
+Favourites_AlreadyAdded,Diese Post haben Sie vorher zu Ihren Favoriten hinzugefügt 
+Favourites_NotAdded,Die Post befindet sich nicht unter Ihren Favoriten 
+Feeders_Send,Senden
+Follow_AlreadyFollowed,Diese Person wird bereits verfolgt 
+Follow_NotFollowed,Diese Person wird nicht verfolgt 
+Follow_SelfFollowWarning,Sie können sich nicht selber verfolgen 
+Likes_AlreadyLiked,Diese Post wurde vorher als gut gefunden 
+Likes_NotLiked,Diese Post wurde vorher nicht als gut gefunden 
+Logoff_Failed,Verfahren nicht durchgeführt 
+Logon_Failed,Verfahren nicht durchgeführt 
+Logon_ForgetPassword,Passwort vergessen 
+Logon_Password,Passwort 
+Logon_Register,Registrieren 
+Logon_Remember,Angemeldet bleiben 
+Logon_SignIn,Eingang 
+Logon_SignUp,Registrieren 
+Logon_VerifiedAccount,Konto 
+Logon_UsernameOrEmail,Benutzername oder E-Mail 
+LogonFailed,Falscher Benutzername oder Passwort 
+LogonModel_PasswordRequired,Passwort darf nicht leer sein 
+LogonModel_UsernameRequired,Benutzername darf nicht leer sein 
+Membership_Banned,Konto ist gesperrt worden 
+Message,Senden
+Message_NotDelivered,Nachricht nicht verschickt 
+Password_CharacterLong,Passwort muss mindestenz 4 Zeichen lang sein 
+Password_Match,Passwort und Passwortbestätigung müssen verschieden sein
+Post,Senden
+Register_EMail,E-Mail 
+Register_FullName,Name Vorname
+Register_Password,Passwort 
+Register_PasswordConfirm,Passwort Bestätigung 
+Register_Submit,Registrieren 
+Register_Title,Registrieren 
+Register_Username,Benutzername 
+RegisterModel_EmailRequired,E-Mail erforderlich 
+RegisterModel_FullNameRequired,Name erforderlich 
+RegisterModel_PasswordConfirmRequired,Passwort Bestätigung erforderlich 
+RegisterModel_PasswordMismatch,Passwort und Passwortbestätigung sind verschieden
+RegisterModel_PasswordRequired,Passwort erforderlich 
+RegisterModel_PasswordStringLength,Passwort kann höchstens 20 Zeichen lang sein 
+RegisterModel_UsernameInvalid,Ungültiger Benutzername 
+RegisterModel_UsernameRequired,Benutzername erforderlich 
+Reports_AlreadyReported,Diese Post wurde vorher reklamiert 
+ResetPassword_Failed,Diese E-Mail ist nicht registriert 
+ResetPassword_ForgetPassword,Passwort vergessen 
+ResetPassword_Send,Senden
+ResetPassword_Succeeded,Die erforderlichen Informationen zur Passwort erneuerung wurden an Ihre E-Mail geschickt  
+ResetPassword_YourEmail,Ihr E-Mail
+ResetPasswordModel_InvalidEmailAdress,Ungültige E-Mail Adresse 
+Share,Teilen 
+Spam_AlreadySpammed,Diese Person wurde vorher als Spam gemeldet 
+Spam_Self,Sie können sich selber nicht als Spam melden 
+Spam_Spam,Spam 
+TextPostModel_Long,Post kann nicht länger als … Zeichen sein 
+TextPostModel_TextRequired,Post Text darf nicht leer sein 
+User_About,Über
+User_Followers,Anhänger 
+User_Followings,Verfolgung
+User_WorldHistory,Weltgeschichte 
+User_InviteFriends,Laden Sie Ihre Freunde ein 
+User_NotExists,Benutzer nicht definiert 
+User_Photos,Foto
+User_SetProfile,Profil bearbeiten 
+User_Settings,Einstellungen 
+User_ShowAll,Alle anzeigen 
+User_Favorites,Favoriten 
+VerifiedAccount_ApplicationReceived,"Ihre Bewerbung wurde erhalten, Bitte überprüfen Sie Ihre E-Mail Box"
+World_CannotBeShared,Post kann nicht verteilt werden
+Block_Block,Blockieren 
+Block_Unblock,Blockierung aufheben 
+Settings_Language,Sprache 
+Settings_Country,Land
+Settings_City,Stadt
+Gift_Received,Welt geschickt 
+Credit_Sent,Sie haben die Welt geschickt 
+Credit_Spent,Sie haben die Welt verwendet 
+Camera_FromAlbum,Aus dem Album wählen 
+Camera_TakePhoto,Foto aufnehmen 
+Common_Search,Suche 
+Common_Delete,Löschen 
+User_SendMessage,Nachricht senden 
+Settings_BlockedList,Blockierte 
+Common_Save,Speichern 
+User_ProfilePhoto,Profil Foto
+User_HeaderPhoto,Header Foto
+User_FullName,Name und Vorname 
+User_FollowRequests,Follower Anfragen 
+Register_AcceptTerms,Ich akzeptiere die Nutzungsbedingungen 
+Settings_ProfileOpen,Offen
+Settings_ProfilePrivate,Geheim 
+Settings_Profile,Profil 
+Common_Day,Tag
+Common_Hour,Stunde
+Common_Minutes,Minute
+Common_Seconds,Sekunde
+Common_Show,vorschau
+Common_Logout,austritt
+Description_Commented,kommentiert
+Common_Month,monat
+Common_Day,tag
+Common_Year,jahr
+Common_All,alle
+Common_Report,beschwerden
+VerifiedAccountForm_Title,bestätigte konto bewerbung
+Common_Help,hilfe

@@ -1,0 +1,140 @@
+﻿<div class="col-md-12">
+    <div class="col-md-12" style="margin-bottom: 60px;">
+        <table style="width:100%;" id="top_bar">
+            <tr>
+                <td><div class="topbar_div"><a href="@string.Format(" {0}://{1}{2}", Request.Url.Scheme, Request.Url.Authority, Url.Content("~"))#/Home"><img src="~/Content/images/house.png" /></a></div></td>
+                <td><div class="topbar_div"><a href="@string.Format(" {0}://{1}{2}", Request.Url.Scheme, Request.Url.Authority, Url.Content("~"))#/Home/Add">Add Trips</a></div></td>
+                <td><div class="topbar_div"><a href="@string.Format(" {0}://{1}{2}", Request.Url.Scheme, Request.Url.Authority, Url.Content("~"))#/Home/Search">Search Trips</a></div></td>
+                <td><div class="topbar_div"><img src="~/Content/images/fb.png" /></div></td>
+                <td><div class="topbar_div"><img src="~/Content/images/twitter.png" /></div></td>
+                <td><div class="topbar_div"><a href="@string.Format(" {0}://{1}{2}", Request.Url.Scheme, Request.Url.Authority, Url.Content("~"))#/Contact">Contact</a></div></td>
+            </tr>
+        </table>
+    </div>
+    <div class="col-md-8 col-md-offset-2">
+        <div id="search">
+
+            <table style="width: 100%">
+                <tr>
+                    <td><p>Search by <span class="stress">User Name</span>:</p></td>
+                    <td>
+                        <input type="text" data-bind="value: username" />
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>Please select the <span class="stress">departure location</span>:</p></td>
+                    <td>
+                        <select data-bind="value: departureProvince, options: provinces, optionsText: 'name', optionsValue: 'id', event: { change: onDepartureProvinceChange }"></select>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>
+                        <select data-bind="value: departureDistrict, options: departureDistricts, optionsCaption: 'Districts', optionsText: 'name', optionsValue: 'id'"></select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>Please select the <span class="stress">arrival location</span>:</p></td>
+                    <td>
+                        <select data-bind="value: arrivalProvince, options: provinces, optionsText: 'name', optionsValue: 'id', event: { change: onArrivalProvinceChange }"></select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>&nbsp;</p></td>
+                    <td>
+                        <select data-bind="value: arrivalDistrict, options: arrivalDistricts, optionsText: 'name', optionsCaption: 'Districts', optionsValue: 'id'"></select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>Departure date:</p></td>
+                    <td>
+                        <input type="text" data-bind="value: depdate" />
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>Departure time:</p></td>
+                    <td>
+                        <select data-bind="options: hours, value: hour"></select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>Maximum estimated trip time:</p></td>
+                    <td>
+                        <select data-bind="options: hours, value: esthour"></select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>Maximum price:</p></td>
+                    <td>
+                        <input type="text" data-bind="value: maxprice" />
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>Minimum available number of seat :</p></td>
+                    <td>
+                        <select data-bind="options: seatnums, value: seatnum, optionsCaption: 'Select seat number'"></select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>
+                        <button data-bind="click: back">Go Back</button>
+                        <button onclick="show();"  data-bind="    click: search">Search</button>
+                    </td>
+                </tr>
+            </table>
+            <br />
+            <table id="search_results" style="width: 100%;">
+                <thead id="resultHeader" style="display:none;">
+                    <tr><th>&nbsp;&nbsp;&nbsp;Date</th><th>Name</th><th>Price</th><th>Seat</th><th>Departure</th><th>&nbsp;&nbsp;&nbsp;Arrival</th><th>DepTime</th><th>TripTime</th></tr>
+                </thead>
+                <tbody data-bind="foreach: trips">                
+                    <tr>
+                        <td>
+                            <span data-bind="text: moment(departDate).format('L')"></span>
+                        </td>
+                        <td>
+                            <span data-bind="text: username"></span>
+                        </td>
+                        <td>
+                            <span data-bind="text: price"></span>
+                        </td>
+                        <td>
+                            <span data-bind="text: seatNumber"></span>
+                        </td>
+                        <td>
+                            <span data-bind="text: departLocation"></span>
+                        </td>
+                        <td>
+                            <span data-bind="text: arrivalLocation"></span>
+                        </td>
+                        <td>
+                            <span data-bind="text: depHour"></span>:<span data-bind="text: depMin"></span>
+                        </td>
+                        <td>
+                            <span data-bind="text: estimatedHour"></span>:<span data-bind="text: estimatedMin"></span>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        require(["Trip/SearchViewModel"], function (model) {
+            var viewModel = new model();
+            ko.applyBindings(viewModel, document.getElementById("search"));
+            viewModel.getProvinces();
+        });
+    });
+</script>
+
+<script>
+    function show() {
+        document.getElementById("resultHeader").style.display = "table-header-group";
+    }
+</script>
+
+

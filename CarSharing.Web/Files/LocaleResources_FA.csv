@@ -1,0 +1,167 @@
+Key,Value
+Block_AlreadyBlocked,این فرد قبلا مسدود شده است
+Block_Self,نمی توانید خود را مسدود کنید
+Buy,بخرید
+ChangePassword_CurrentPassword,رمز شما
+ChangePassword_Failed,رمزتان تغییر نیافت
+ChangePassword_NewPassword,رمز جدید
+ChangePassword_NewPasswordConfirm,تکرار رمز جدید
+ChangePassword_Submit,تغییر بده
+ChangePassword_Succeeded,رمز تغییر یافت
+Comment,بفرست
+CommentModel_Long,نظراز... کاراکتر بیشتر نمی تواند باشد
+CommentModel_Required,نیاز به نظردهی
+Comments_NoPermission,نمیتوانید این دیدگاه را حذف کنید
+Comments_NotExists,دیدگاهی به این صورت وجود ندارد
+Common_AlreadyBanned,این حساب برای استفاده مسدود شده است
+Common_AndOther,و مانند اینها
+Common_Back,بازگشت
+Common_HasBeenBlocked,از طریق این فرد مسدود شده اید.
+Common_HasBlocked,این فرد را مسدود کرده اید.
+Common_InvalidEmailAddress,آدرس اینترنتی نامعتبر
+Common_NoConnection,ارتباط اینترنتی خود را کنترل کنید
+Common_NoPermission,شما مجاز به این کار نیستید
+Common_NoRecord,ثبت نشده است
+Common_SendCredit,بفرست
+Common_UnknownError,خطا ایجاد شد
+Common_Unsuccessful,فرایند انجام نشد
+Common_World,دنیا
+Common_SendButton,بفرست
+Credit_Confirm,آیا مطمئن هستید؟
+Credit_NotEnough,دنیا را بخر
+Credit_Self,نمی توانید برای خود دنیا ارسال کنید
+Description_Mentions_Commented_Image,برای عکس شما نظر داد
+Description_Mentions_Commented_Text,برای متن شما نظر داد
+Description_Mentions_Favourited_Image,عکس شما را به علاقه مندی خود اضافه کرد
+Description_Mentions_Favourited_Text,متن شما را به علاقه مندی های خود اضافه کرد
+Description_Mentions_Liked_Image,عکس شما را پسندید
+Description_Mentions_Liked_Text,نوشته ی شما را پسندید
+Description_Mentions_Mentioned,در مورد شما بحث کرد
+Description_Mentions_Shared_Image,عکس شما را با دنیا به اشتراک گذاشت
+Description_Mentions_Shared_Text,نوشته ی شما را با دنیا به اشتراک گذاشت
+Description_Mentions_Video_Image,به عکس شما ویدئو اضافه کرد
+Description_Mentions_Video_Text,به نوشته ی شما ویدئو اضافه کرد
+Description_Telescope_Favourited,به لیست علاقه مندی های خود اضافه کرد
+Description_Telescope_Followed,تعقیب کرد
+Description_Telescope_Liked,پسندید
+Description_Telescope_Shared,با دنیا به اشتراک گذاشت
+Email_Mentioned,   %username%در مورد تو بحث کرد   
+Email_Comment_Image, به عکس تو نظر داد %username%
+Email_Comment_Text,%username% به نوشته ی شما نظر داد 
+Email_Favorited_Text,نوشته ی شما را به لیست علاقه مندی های خود اضافه کرد%username%
+Email_Favorited_Image,عکس شما را به لیست علاقه مندی های خود اضافه کرد%username%
+Email_Follow,شروع به تعقیب شما کرد%username%
+Email_Like_Image,عکس شما را پسندید%username%
+Email_Like_Text,نوشته ی شما را پسندید%username%
+Email_PasswordReset,رمز ورلدسلف شما تغییر یافت
+Email_ResetPasswordConfirmation,"اگر قصد تغییر رمز ورلدسلف خود دارید, به لینک زیر کلیک کنید."
+Email_VerifiedAccountApplicationApproved,حساب ورلدسلف شما تائید شد.
+Email_VerifiedAccountApplicationReceived,"درخواست حساب تائید شده ی ورلد سلف شما به ما رسیده است.برای تائید حساب کاربری به نام %username% تویتر, یک توییت با %verifiedaccountcode% ارسال کنید."
+Email_Video_Text,به نوشته ی شما ویدئو اضافه کرد %username%
+Email_Video_Image,به عکس شما ویدئو اضافه کرد %username%
+Email_Welcome,"به ورلدسلف خوش آمدید. اگر ثبت نام از طریق شما انجام نشده است, از طریق آدرس پستی support@worldself.com اطلاع رسانی کنید."
+Favourites_AlreadyAdded,این پست قبلا به علاقه مندی های شما اضافه شده است
+Favourites_NotAdded,این پست در علاقه مندی های شما وجود ندارد
+Feeders_Send,بفرست
+Follow_AlreadyFollowed,این شخص را از قبل دنبال می کنید
+Follow_NotFollowed,این شخص را دنبال نمی کنید
+Follow_SelfFollowWarning,نمی توانیید این شخص را دنبال کنید
+Likes_AlreadyLiked,این پست قبلا پسندیده شده است
+Likes_NotLiked,این پست قبلا پسندیده نشده است
+Logoff_Failed,این فرآیند انجام نشد
+Logon_Failed,این فرآیند انجام نشد
+Logon_ForgetPassword,پسوردم را فراموش کردم
+Logon_Password,رمز
+Logon_Register,ثبت نام
+Logon_Remember,مرا به خاطر بسپار
+Logon_SignIn,ورود
+Logon_SignUp,ثبت نام
+Logon_VerifiedAccount,حساب 
+Logon_UsernameOrEmail,نام کاربری و یا آدرس اینترنتی
+LogonFailed,نام کاربری و یا رمز اشتباه
+LogonModel_PasswordRequired,رمز نمی تواند خالی باشد
+LogonModel_UsernameRequired,نام کاربری نمی تواند خالی باشد
+Membership_Banned,حساب برای استفاده بسته شده است
+Message,بفرست
+Message_NotDelivered,پیام فرستاده نشد
+Password_CharacterLong,رمز حداقل 4 کاراکتر باید داشته باشد
+Password_Match,رمز و تائیدیه رمز از هم متفاوت است
+Post,بفرست
+Register_EMail,آدرس اینترنتی
+Register_FullName,نام و نام خانوادگی
+Register_Password,رمز
+Register_PasswordConfirm,تایید رمز
+Register_Submit,ثبت نام
+Register_Title,ثبت نام
+Register_Username,نام کاربری
+RegisterModel_EmailRequired,آدرس اینترنتی الزامی است
+RegisterModel_FullNameRequired,نام الزامی است
+RegisterModel_PasswordConfirmRequired,تایید رمز الزامی است
+RegisterModel_PasswordMismatch,رمز و تاییدیه رمز متفاوت از هم است
+RegisterModel_PasswordRequired,رمز الزامی است
+RegisterModel_PasswordStringLength,رمز حداکثر 20 کاراکتر می تواند باشد
+RegisterModel_UsernameInvalid,نام کاربری نامعتبر
+RegisterModel_UsernameRequired,نام کاربری الزامی است
+Reports_AlreadyReported,این پست قبلا شکایت شده است
+ResetPassword_Failed,این آدرس اینترنتی ثبت نشده است
+ResetPassword_ForgetPassword,پسوردم را فراموش کردم
+ResetPassword_Send,بفرست
+ResetPassword_Succeeded,اطلعات لازم برای بازیابی رمز شما به آدرس اینترنتی یتان ارسال شد
+ResetPassword_YourEmail,آدرس پستی اینترنتی شما
+ResetPasswordModel_InvalidEmailAdress,آدرس پست اینترنتی نامعتبر
+Share,بفرست
+Spam_AlreadySpammed,این فرد قبلا به عنوان هرزه نگار ثبت شده است
+Spam_Self,نمی توانید خود را به هرزه نگار ثبت کنید
+Spam_Spam,هرزه
+TextPostModel_Long,پیام از ... کاراکتر بیشتر نمی تواند باشد
+TextPostModel_TextRequired,متن پیام نمی تواند خالی باشد
+User_About,در مورد 
+User_Followers,تعقیب کننده
+User_Followings,تعقیب
+User_WorldHistory,گذشته ی دنیا
+User_InviteFriends,دوستان خود را دعوت کن
+User_NotExists,کاربر تعریف نشده است
+User_Photos,عکس
+User_SetProfile,ویرایش مشخصات
+User_Settings,تنظیمات
+User_ShowAll,نمایش همه
+User_Favorites,علاقه مندی ها
+VerifiedAccount_ApplicationReceived,ثبت نام شما انجام شد لطفا آدرس پستی اینترنتی خود را چک کنید
+World_CannotBeShared,این پست قابلیت اشتراک ندارد
+Block_Block,مسدود کن
+Block_Unblock,حذف مسدود کردن
+Settings_Language,زبان
+Settings_Country,کشور
+Settings_City,شهر
+Gift_Received,دنیا فرستاد
+Credit_Sent,شما دنیا فرستادید
+Credit_Spent,دنیا استفاده کردید
+Camera_FromAlbum,انتخاب از آلبوم
+Camera_TakePhoto,عکس بگیر
+Common_Search,جستجو
+Common_Delete,حذف کن
+User_SendMessage,پیام بفرست
+Settings_BlockedList,مسدود شده ها
+Common_Save,ثبت کن
+User_ProfilePhoto,عکس پروفایل
+User_HeaderPhoto,عکس سر صفحه
+User_FullName,نام نام خانوادگی
+User_FollowRequests,درخواست دنباله روی
+Register_AcceptTerms,شرایط خدمات را قبول می کنم
+Settings_ProfileOpen,باز
+Settings_ProfilePrivate,مخفی
+Settings_Profile,پروفایل
+Common_Day,روز
+Common_Hour,ساعت
+Common_Minutes,دقیقه
+Common_Seconds,ثانیه
+Common_Show,نمایش بده
+Common_Logout,خروج
+Description_Commented,نظر داد
+Common_Month,ماه
+Common_Day,روز
+Common_Year,سال
+Common_All,همه
+Common_Report,شکایت کنید
+VerifiedAccountForm_Title,درخواست حساب تائید شده
+Common_Help,راهنما

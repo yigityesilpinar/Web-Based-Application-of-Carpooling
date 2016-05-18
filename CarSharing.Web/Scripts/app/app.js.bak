@@ -1,0 +1,83 @@
+﻿(function ($) {
+    require(["utils", "webRequest"], function (utils, webRequest) {
+        app = $.sammy('#mainContent', function () {
+            this.get('#/Home', function (context) {
+                utils.changeView("../Home/Entrance", null);
+            });
+            this.get('#/Main', function (context) {
+                utils.changeView("../Home/Entrance", null);
+            });
+            this.get('#/', function (context) {
+                utils.changeView("../Home/Entrance", null);
+            });
+            this.get('#/Settings', function (context) {
+                utils.changeView("Profile/Settings", null);
+            });
+            this.get('#/Telescope', function (context) {
+                utils.changeView("Activity/Telescope", null);
+            });
+            this.get('#/Post/:feedId', function (context) {
+                utils.changeView("Activity/Post", null);
+            });
+            this.get('#/Notification', function (context) {
+                utils.changeView("Activity/Mention", null);
+            });
+            this.get('#/User/:username', function (context) {
+                utils.changeView("Profile/User", null);
+            });
+            this.get('#/SearchPost/:keyword', function (context) {
+                utils.changeView("Search/PostResult", null);
+            });
+            this.get('#/SearchUser/:keyword', function (context) {
+                utils.changeView("Search/UserResult", null);
+            });
+            this.get('#/Follower/:username', function (context) {
+                utils.changeView("Profile/Follower", null);
+            });
+            this.get('#/Following/:username', function (context) {
+                utils.changeView("Profile/Following", null);
+            });
+            this.get('#/Favourite/:username', function (context) {
+                utils.changeView("Profile/Favourite", null);
+            });
+            this.get('#/Feeders/:type/:id', function (context) {
+                utils.changeView("Activity/Feeders", null);
+            });
+            this.get('#/Album/:username', function (context) {
+                utils.changeView("Profile/Album", null);
+            });
+            this.get('#/Conversations', function (context) {
+                utils.changeView("Communication/Conversations", null);
+            });
+            this.get('#/Messages/:id/:contact', function (context) {
+                utils.changeView("Communication/Messages", null);
+            });
+            this.get('#/World', function (context) {
+                utils.changeView("Activity/World", null);
+            });
+            this.get('#/CreditHistory', function (context) {
+                utils.changeView("Credit/CreditHistory", null);
+            });
+            this.get('#/Gifts', function (context) {
+                utils.changeView("Credit/Gifts", null);
+            });
+            this.get('#/Others', function (context) {
+                utils.changeView("Activity/Others", null);
+            });
+            this.get('#/Blockeds', function (context) {
+                utils.changeView("Profile/Blockeds", null);
+            });
+            this.get('#/Follows', function (context) {
+                utils.changeView("Activity/Follows", null);
+            });
+            // route'lar buraya eklenecek
+        });
+        $(function () {
+            var params = { lang: utils.getLanguage() };
+            webRequest.getSync("/Main/Locale/GetLanguage", params, function (result) {
+                utils.setLocaleResources(result);
+            });
+            app.run('#/');
+        });
+    });
+})(jQuery);
